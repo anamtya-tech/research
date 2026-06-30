@@ -7,10 +7,7 @@
 *credentials*
 *secret*
 
-# ── separate repos (have their own remotes) ─────────────────────
-chatak-odas/
-yamnet/
-simulator/
+# (chatak-odas / yamnet / simulator are git submodules — see .gitmodules)
 
 # ── large source data & archives ───────────────────────────────
 backup/

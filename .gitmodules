@@ -1,0 +1,9 @@
+[submodule "chatak-odas"]
+	path = chatak-odas
+	url = https://github.com/anamtya-tech/chatak-odas.git
+[submodule "yamnet"]
+	path = yamnet
+	url = https://github.com/anamtya-tech/yamnet.git
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/anamtya-tech/simulator.git
