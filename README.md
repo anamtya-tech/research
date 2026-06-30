@@ -54,6 +54,25 @@ experiments/scripts/finetune_backbone.py --sweep 6 --seeds 0,1 --augment   # bac
 experiments/scripts/export_finetuned_model.py          # → TFLite + registry
 ```
 
+## Datasets (Google Cloud Storage)
+The generated datasets are kept in **`gs://chatak-data/research-2026/`** (the large binaries are
+gitignored here). See `gs://chatak-data/research-2026/README.txt` for the full manifest.
+
+| Path | What |
+|---|---|
+| `corpus/embeddings.npy` + `meta.csv` | the **labeled training corpus** (7,251 post-ODAS samples; 4 ambient envs, 3 SNRs) |
+| `corpus/postodas_bins.tar.gz` | raw 96×257 `.bin` spectra — needed to redo **backbone** fine-tuning |
+| `models/yamnet_finetuned.keras`, `chatak_yamnet_v2.0.0-specaug.tflite`, `custom_class_map.csv` | the shipped 7-class model + deployable TFLite |
+| `gt_datasets.tar.gz` | clean GT clips + `labels.csv` |
+| `data_prep_clips.tar.gz`, `data_prep/inventory.csv` | the 450-clip annotated inventory |
+| `scenes.tar.gz` | scene JSONs (render recipe; raw renders are regenerable, not stored) |
+
+```bash
+# train collectively from the corpus (after pulling embeddings.npy + meta.csv):
+gsutil cp -r gs://chatak-data/research-2026/corpus ./experiments/corpus
+python experiments/scripts/corpus.py --train
+```
+
 ## Data needs (for new client classes)
 Per target class: **~100–200 clean example clips** (we synthesize ~400–600 training samples via the
 simulator). Background: **a few hours → 24 h of on-site ambient on the mic array** covers the noise
