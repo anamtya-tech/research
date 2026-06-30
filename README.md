@@ -32,8 +32,13 @@ experiments/
 data_prep/       annotated clip inventory (scripts, inventory.csv, figures)
 plan.md          ML warm-up plan        experiments.pdf  the production experiment program
 ```
-**Gitignored** (large / separate / regenerable): `backup/`, `.venv/`, model+audio binaries, and the
-**`chatak-odas` / `yamnet` / `simulator`** sub-repos (each has its own remote).
+`chatak-odas/`, `yamnet/`, `simulator/` are **git submodules** (pinned to their `main`). Clone the
+full stack with:
+```bash
+git clone --recurse-submodules https://github.com/anamtya-tech/research.git
+# already cloned?  git submodule update --init --recursive
+```
+**Gitignored** (large / regenerable): `backup/`, `.venv/`, model+audio binaries, big experiment outputs.
 
 ## Related repos
 | Repo | Role |
