@@ -1,0 +1,29 @@
+{
+  "scene_duration_s": 300.0,
+  "quiet_s": 163.2,
+  "total_detections": 524,
+  "matched_gt": 369,
+  "unmatched": 155,
+  "gt_events_total": 60,
+  "gt_events_detected": 56,
+  "event_recall": 0.933,
+  "fp_in_quiet": 81,
+  "fp_per_min": 29.77,
+  "deployed_base_class_accuracy": 0.314,
+  "confusion": {
+    "Bear->Elephant": 47,
+    "Bear->Frog": 9,
+    "Elephant->Elephant": 55,
+    "Elephant->Frog": 30,
+    "Frog->Elephant": 22,
+    "Frog->Frog": 60,
+    "Lion->Elephant": 73,
+    "Lion->Frog": 20,
+    "Lion->drone_bebop": 1,
+    "drone_bebop->Elephant": 15,
+    "drone_bebop->Frog": 17,
+    "drone_bebop->drone_bebop": 1,
+    "drone_binary->Elephant": 8,
+    "drone_binary->Frog": 11
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "Bear",
+    "Elephant",
+    "Frog",
+    "Lion",
+    "drone_bebop",
+    "drone_binary"
+  ],
+  "n_gt_train": 133,
+  "n_odas_train": 416,
+  "n_holdout": 332,
+  "holdout": "post-ODAS",
+  "gt_model_holdout_acc": 0.355,
+  "gt_model_f1": {
+    "Bear": 0.0,
+    "Elephant": 0.168,
+    "Frog": 0.541,
+    "Lion": 0.552,
+    "drone_bebop": 0.048,
+    "drone_binary": 0.129
+  },
+  "odas_model_holdout_acc": 0.476,
+  "odas_model_f1": {
+    "Bear": 0.362,
+    "Elephant": 0.457,
+    "Frog": 0.476,
+    "Lion": 0.588,
+    "drone_bebop": 0.488,
+    "drone_binary": 0.324
+  }
+}

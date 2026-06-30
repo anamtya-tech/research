@@ -1,0 +1,19 @@
+{
+  "baseline": {
+    "model": "6-class (no hard-neg)",
+    "recall": 0.683,
+    "clip_acc": 0.419,
+    "ghost_total": 22,
+    "ghost_fired": 22,
+    "fp_per_min": 8.09
+  },
+  "real_hardneg": {
+    "model": "7-class (+773 real-ambient neg)",
+    "recall": 0.617,
+    "clip_acc": 0.458,
+    "ghost_total": 22,
+    "ghost_fired": 20,
+    "fp_per_min": 7.35
+  },
+  "n_negatives": 773
+}

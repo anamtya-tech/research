@@ -1,0 +1,22 @@
+{
+  "baseline": {
+    "model": "6-class (no hard-neg)",
+    "recall": 0.733,
+    "clip_acc": 0.443,
+    "ghost_total": 22,
+    "ghost_fired": 22,
+    "ghost_to_background": 0,
+    "fp_per_min": 8.09
+  },
+  "hard_neg": {
+    "model": "7-class (+hard-neg)",
+    "recall": 0.633,
+    "clip_acc": 0.464,
+    "ghost_total": 22,
+    "ghost_fired": 12,
+    "ghost_to_background": 10,
+    "fp_per_min": 4.41
+  },
+  "fp_reduction": "8.09 -> 4.41 /min",
+  "recall_change": "0.733 -> 0.633"
+}

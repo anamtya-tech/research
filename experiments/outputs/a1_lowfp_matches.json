@@ -1,0 +1,2298 @@
+[
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_151_12259.bin",
+    "spectral_count": 95,
+    "angular_error": 11.126185336969971,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_155_12309.bin",
+    "spectral_count": 95,
+    "angular_error": 4.429791008931817,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_151_12549.bin",
+    "spectral_count": 140,
+    "angular_error": 5.7723262809108284,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_151_12654.bin",
+    "spectral_count": 187,
+    "angular_error": 0.9737859368593985,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_155_12754.bin",
+    "spectral_count": 129,
+    "angular_error": 3.559461122200334,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_151_12810.bin",
+    "spectral_count": 218,
+    "angular_error": 1.9560793396694591,
+    "src_start": 87.37,
+    "src_end": 92.58
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_36_6032.bin",
+    "spectral_count": 142,
+    "angular_error": 4.715987229055071,
+    "src_start": 37.04,
+    "src_end": 39.22
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_36_6080.bin",
+    "spectral_count": 191,
+    "angular_error": 4.476040719879741,
+    "src_start": 37.04,
+    "src_end": 39.22
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_36_6139.bin",
+    "spectral_count": 238,
+    "angular_error": 3.683664163447468,
+    "src_start": 37.04,
+    "src_end": 39.22
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_36_6188.bin",
+    "spectral_count": 285,
+    "angular_error": 0.539923923053168,
+    "src_start": 37.04,
+    "src_end": 39.22
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_36_6273.bin",
+    "spectral_count": 291,
+    "angular_error": 0.38645646642186376,
+    "src_start": 37.04,
+    "src_end": 39.22
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_388_25973.bin",
+    "spectral_count": 87,
+    "angular_error": 1.1225892766577523,
+    "src_start": 196.29,
+    "src_end": 197.32
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_389_25973.bin",
+    "spectral_count": 51,
+    "angular_error": 3.303082703986171,
+    "src_start": 196.29,
+    "src_end": 197.32
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30158.bin",
+    "spectral_count": 92,
+    "angular_error": 7.239756766481984,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30170.bin",
+    "spectral_count": 94,
+    "angular_error": 7.103684421812468,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30219.bin",
+    "spectral_count": 141,
+    "angular_error": 2.2915278625311815,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30263.bin",
+    "spectral_count": 143,
+    "angular_error": 4.479322419737615,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30274.bin",
+    "spectral_count": 191,
+    "angular_error": 2.434522556453379,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30331.bin",
+    "spectral_count": 191,
+    "angular_error": 3.865130866739413,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30345.bin",
+    "spectral_count": 239,
+    "angular_error": 1.4863407348487019,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30433.bin",
+    "spectral_count": 283,
+    "angular_error": 8.187064464687149,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30451.bin",
+    "spectral_count": 236,
+    "angular_error": 11.219234004905116,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30491.bin",
+    "spectral_count": 335,
+    "angular_error": 2.8257656736193697,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30514.bin",
+    "spectral_count": 286,
+    "angular_error": 4.080642767821924,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_477_30614.bin",
+    "spectral_count": 335,
+    "angular_error": 12.230701609948127,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_30629.bin",
+    "spectral_count": 383,
+    "angular_error": 13.928770201070616,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_493_30904.bin",
+    "spectral_count": 52,
+    "angular_error": 11.634520022977012,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_479_31074.bin",
+    "spectral_count": 711,
+    "angular_error": 13.956138579269506,
+    "src_start": 230.61,
+    "src_end": 238.51
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_404_26742.bin",
+    "spectral_count": 38,
+    "angular_error": 5.15748129503687,
+    "src_start": 203.49,
+    "src_end": 204.52
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_117_10022.bin",
+    "spectral_count": 92,
+    "angular_error": 2.7297575257380444,
+    "src_start": 68.37,
+    "src_end": 71.44
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_117_10109.bin",
+    "spectral_count": 143,
+    "angular_error": 2.911370826121873,
+    "src_start": 68.37,
+    "src_end": 71.44
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_117_10188.bin",
+    "spectral_count": 154,
+    "angular_error": 1.4492777189683894,
+    "src_start": 68.37,
+    "src_end": 71.44
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_294_18872.bin",
+    "spectral_count": 58,
+    "angular_error": 13.84927694185053,
+    "src_start": 139.71,
+    "src_end": 141.84
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_296_18885.bin",
+    "spectral_count": 95,
+    "angular_error": 10.836995607023937,
+    "src_start": 139.71,
+    "src_end": 141.84
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_296_18943.bin",
+    "spectral_count": 140,
+    "angular_error": 10.502032137507118,
+    "src_start": 139.71,
+    "src_end": 141.84
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_296_18994.bin",
+    "spectral_count": 191,
+    "angular_error": 3.610130954629114,
+    "src_start": 139.71,
+    "src_end": 141.84
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_296_19075.bin",
+    "spectral_count": 208,
+    "angular_error": 1.4692325033244291,
+    "src_start": 139.71,
+    "src_end": 141.84
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16791.bin",
+    "spectral_count": 335,
+    "angular_error": 3.8311056177053677,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_255_16811.bin",
+    "spectral_count": 228,
+    "angular_error": 5.463595681448326,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16849.bin",
+    "spectral_count": 379,
+    "angular_error": 8.58388331617525,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16907.bin",
+    "spectral_count": 427,
+    "angular_error": 13.799562125578214,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16955.bin",
+    "spectral_count": 475,
+    "angular_error": 12.535367014095465,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_17009.bin",
+    "spectral_count": 505,
+    "angular_error": 12.259539190145642,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_272_17291.bin",
+    "spectral_count": 41,
+    "angular_error": 4.951269477539716,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_273_17398.bin",
+    "spectral_count": 95,
+    "angular_error": 14.470164628690693,
+    "src_start": 126.68,
+    "src_end": 128.9
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14216.bin",
+    "spectral_count": 380,
+    "angular_error": 10.776608207637748,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14302.bin",
+    "spectral_count": 431,
+    "angular_error": 12.299393020768859,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14353.bin",
+    "spectral_count": 478,
+    "angular_error": 6.096596120837939,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14402.bin",
+    "spectral_count": 524,
+    "angular_error": 11.992608667982893,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14452.bin",
+    "spectral_count": 571,
+    "angular_error": 9.18795699351015,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14501.bin",
+    "spectral_count": 623,
+    "angular_error": 7.597129819445297,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14638.bin",
+    "spectral_count": 668,
+    "angular_error": 1.9148355714740801,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14706.bin",
+    "spectral_count": 718,
+    "angular_error": 9.52262198526821,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_197_14706.bin",
+    "spectral_count": 65,
+    "angular_error": 8.441144205298892,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14756.bin",
+    "spectral_count": 736,
+    "angular_error": 13.241758836333435,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_206_14869.bin",
+    "spectral_count": 12,
+    "angular_error": 11.622553971503317,
+    "src_start": 106.1,
+    "src_end": 109.34
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_229_15369.bin",
+    "spectral_count": 141,
+    "angular_error": 3.0063721420395226,
+    "src_start": 111.17,
+    "src_end": 116.27
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15401.bin",
+    "spectral_count": 190,
+    "angular_error": 2.141536655034714,
+    "src_start": 111.17,
+    "src_end": 116.27
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_229_15417.bin",
+    "spectral_count": 189,
+    "angular_error": 0.22630333306066186,
+    "src_start": 111.17,
+    "src_end": 116.27
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15470.bin",
+    "spectral_count": 237,
+    "angular_error": 4.745363978753257,
+    "src_start": 111.17,
+    "src_end": 116.27
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_229_15503.bin",
+    "spectral_count": 214,
+    "angular_error": 0.39559651086724873,
+    "src_start": 111.17,
+    "src_end": 116.27
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_436_27311.bin",
+    "spectral_count": 31,
+    "angular_error": 1.420173726784108,
+    "src_start": 207.68,
+    "src_end": 208.7
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_481_30676.bin",
+    "spectral_count": 63,
+    "angular_error": 0.3909686602550398,
+    "src_start": 234.02,
+    "src_end": 236.75
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_499_31193.bin",
+    "spectral_count": 15,
+    "angular_error": 9.65522572345864,
+    "src_start": 234.02,
+    "src_end": 236.75
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_13815.bin",
+    "spectral_count": 93,
+    "angular_error": 1.5887127505140686,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_13911.bin",
+    "spectral_count": 143,
+    "angular_error": 1.4087353844212522,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_13923.bin",
+    "spectral_count": 143,
+    "angular_error": 7.638350567250449,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_13975.bin",
+    "spectral_count": 191,
+    "angular_error": 6.424289622098438,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14023.bin",
+    "spectral_count": 236,
+    "angular_error": 11.420897914036473,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_14063.bin",
+    "spectral_count": 188,
+    "angular_error": 0.6708694499128661,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14075.bin",
+    "spectral_count": 287,
+    "angular_error": 12.189884168586088,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_190_14167.bin",
+    "spectral_count": 334,
+    "angular_error": 12.749041937978744,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_14202.bin",
+    "spectral_count": 237,
+    "angular_error": 1.9697368310069983,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_14368.bin",
+    "spectral_count": 284,
+    "angular_error": 3.591182381218343,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_192_14459.bin",
+    "spectral_count": 333,
+    "angular_error": 3.3291545932252755,
+    "src_start": 99.48,
+    "src_end": 105.86
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_216_15084.bin",
+    "spectral_count": 90,
+    "angular_error": 1.0447359747363814,
+    "src_start": 110.39,
+    "src_end": 111.41
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35260.bin",
+    "spectral_count": 95,
+    "angular_error": 4.405573111544858,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35412.bin",
+    "spectral_count": 143,
+    "angular_error": 5.377290261984928,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35473.bin",
+    "spectral_count": 189,
+    "angular_error": 4.573708545956003,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35475.bin",
+    "spectral_count": 94,
+    "angular_error": 4.468700446377925,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35529.bin",
+    "spectral_count": 236,
+    "angular_error": 6.687846513555562,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35558.bin",
+    "spectral_count": 139,
+    "angular_error": 5.293459626141146,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35578.bin",
+    "spectral_count": 286,
+    "angular_error": 5.48130162458946,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35621.bin",
+    "spectral_count": 188,
+    "angular_error": 6.876495820879599,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35638.bin",
+    "spectral_count": 334,
+    "angular_error": 8.055397026745538,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35687.bin",
+    "spectral_count": 237,
+    "angular_error": 5.942301618987047,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35710.bin",
+    "spectral_count": 379,
+    "angular_error": 8.62042753863675,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35751.bin",
+    "spectral_count": 286,
+    "angular_error": 1.5461779365493153,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35783.bin",
+    "spectral_count": 429,
+    "angular_error": 11.713164514673709,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35836.bin",
+    "spectral_count": 333,
+    "angular_error": 1.9196308259766495,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35853.bin",
+    "spectral_count": 476,
+    "angular_error": 11.010303196050375,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_35895.bin",
+    "spectral_count": 381,
+    "angular_error": 8.64725187530406,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_35926.bin",
+    "spectral_count": 523,
+    "angular_error": 13.631439378792123,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_36047.bin",
+    "spectral_count": 575,
+    "angular_error": 13.499344467458146,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_36053.bin",
+    "spectral_count": 426,
+    "angular_error": 10.00996156603908,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_36097.bin",
+    "spectral_count": 620,
+    "angular_error": 12.312385663811126,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_36108.bin",
+    "spectral_count": 479,
+    "angular_error": 7.186450010353463,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_36148.bin",
+    "spectral_count": 668,
+    "angular_error": 9.646488515618488,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_36163.bin",
+    "spectral_count": 526,
+    "angular_error": 5.816018047933668,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_36202.bin",
+    "spectral_count": 717,
+    "angular_error": 6.440181534105227,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_552_36224.bin",
+    "spectral_count": 558,
+    "angular_error": 5.512680906434993,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_549_36310.bin",
+    "spectral_count": 720,
+    "angular_error": 6.189453031356755,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_568_36433.bin",
+    "spectral_count": 14,
+    "angular_error": 9.656090631310864,
+    "src_start": 271.51,
+    "src_end": 279.51
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21494.bin",
+    "spectral_count": 95,
+    "angular_error": 5.980696367885658,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21547.bin",
+    "spectral_count": 143,
+    "angular_error": 5.5863023665312355,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21595.bin",
+    "spectral_count": 190,
+    "angular_error": 3.939126592681354,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21644.bin",
+    "spectral_count": 239,
+    "angular_error": 1.8178705026172373,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21697.bin",
+    "spectral_count": 286,
+    "angular_error": 2.149762346686332,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21752.bin",
+    "spectral_count": 334,
+    "angular_error": 1.9119998076890048,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21800.bin",
+    "spectral_count": 381,
+    "angular_error": 1.6342564149748733,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21849.bin",
+    "spectral_count": 429,
+    "angular_error": 1.9314472287204654,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21898.bin",
+    "spectral_count": 478,
+    "angular_error": 2.497442811382835,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_336_21950.bin",
+    "spectral_count": 510,
+    "angular_error": 2.2264595670382903,
+    "src_start": 161.22,
+    "src_end": 165.66
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15243.bin",
+    "spectral_count": 92,
+    "angular_error": 4.686502207554575,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_224_15245.bin",
+    "spectral_count": 65,
+    "angular_error": 13.134198561723164,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15352.bin",
+    "spectral_count": 140,
+    "angular_error": 6.315648831126882,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15555.bin",
+    "spectral_count": 286,
+    "angular_error": 6.392293929674625,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15644.bin",
+    "spectral_count": 335,
+    "angular_error": 8.750663235123387,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15770.bin",
+    "spectral_count": 383,
+    "angular_error": 4.55461845032031,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_15943.bin",
+    "spectral_count": 430,
+    "angular_error": 11.904490636667678,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_223_16172.bin",
+    "spectral_count": 453,
+    "angular_error": 6.293008523672936,
+    "src_start": 113.38,
+    "src_end": 117.39
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_273_17485.bin",
+    "spectral_count": 143,
+    "angular_error": 11.364853430286884,
+    "src_start": 130.31,
+    "src_end": 136.81
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_273_17726.bin",
+    "spectral_count": 176,
+    "angular_error": 2.940567030847854,
+    "src_start": 130.31,
+    "src_end": 136.81
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_146_12095.bin",
+    "spectral_count": 32,
+    "angular_error": 2.362087715578127,
+    "src_start": 85.96,
+    "src_end": 86.98
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_299_19196.bin",
+    "spectral_count": 92,
+    "angular_error": 1.9862685681598662,
+    "src_start": 142.42,
+    "src_end": 143.44
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_299_19253.bin",
+    "spectral_count": 111,
+    "angular_error": 1.662465161035631,
+    "src_start": 142.42,
+    "src_end": 143.44
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_300_19257.bin",
+    "spectral_count": 20,
+    "angular_error": 7.697710060844477,
+    "src_start": 142.42,
+    "src_end": 143.44
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_533_33602.bin",
+    "spectral_count": 140,
+    "angular_error": 0.4037633214827647,
+    "src_start": 257.61,
+    "src_end": 260.23
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_533_33694.bin",
+    "spectral_count": 188,
+    "angular_error": 7.052757731103855,
+    "src_start": 257.61,
+    "src_end": 260.23
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_533_33754.bin",
+    "spectral_count": 236,
+    "angular_error": 0.5231901316324067,
+    "src_start": 257.61,
+    "src_end": 260.23
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_533_33802.bin",
+    "spectral_count": 265,
+    "angular_error": 0.7559730200038914,
+    "src_start": 257.61,
+    "src_end": 260.23
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_597_37309.bin",
+    "spectral_count": 95,
+    "angular_error": 2.2095119497267888,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_598_37312.bin",
+    "spectral_count": 93,
+    "angular_error": 0.38356951575129344,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_597_37369.bin",
+    "spectral_count": 138,
+    "angular_error": 0.28550595929481426,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_598_37404.bin",
+    "spectral_count": 141,
+    "angular_error": 2.950189647447891,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_597_37458.bin",
+    "spectral_count": 188,
+    "angular_error": 2.7228272624000462,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_598_37475.bin",
+    "spectral_count": 186,
+    "angular_error": 5.301963724365593,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_597_37522.bin",
+    "spectral_count": 236,
+    "angular_error": 2.829011105118802,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_598_37542.bin",
+    "spectral_count": 235,
+    "angular_error": 1.8483900698811446,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_597_37576.bin",
+    "spectral_count": 253,
+    "angular_error": 2.0904562705797485,
+    "src_start": 287.89,
+    "src_end": 290.52
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_95_9370.bin",
+    "spectral_count": 61,
+    "angular_error": 14.063749999102127,
+    "src_start": 63.83,
+    "src_end": 71.83
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_378_24666.bin",
+    "spectral_count": 94,
+    "angular_error": 11.509763484048875,
+    "src_start": 185.31,
+    "src_end": 186.33
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_379_24719.bin",
+    "spectral_count": 21,
+    "angular_error": 11.509763484048875,
+    "src_start": 185.31,
+    "src_end": 186.33
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_61_8040.bin",
+    "spectral_count": 61,
+    "angular_error": 3.2552237060844926,
+    "src_start": 53.47,
+    "src_end": 54.49
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_63_8059.bin",
+    "spectral_count": 46,
+    "angular_error": 2.440798633884002,
+    "src_start": 53.47,
+    "src_end": 54.49
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_608_38548.bin",
+    "spectral_count": 5,
+    "angular_error": 5.846426893627785,
+    "src_start": 298.42,
+    "src_end": 299.44
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_620_38729.bin",
+    "spectral_count": 33,
+    "angular_error": 1.226470508739643,
+    "src_start": 298.42,
+    "src_end": 299.44
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7668.bin",
+    "spectral_count": 94,
+    "angular_error": 14.096328618645135,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_56_7675.bin",
+    "spectral_count": 95,
+    "angular_error": 13.628461200145221,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7760.bin",
+    "spectral_count": 141,
+    "angular_error": 14.396252073265702,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_56_7798.bin",
+    "spectral_count": 140,
+    "angular_error": 4.312880525121105,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_56_7889.bin",
+    "spectral_count": 191,
+    "angular_error": 5.085774793674135,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7959.bin",
+    "spectral_count": 332,
+    "angular_error": 13.20498485427328,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_56_7979.bin",
+    "spectral_count": 232,
+    "angular_error": 1.5775482995005219,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_8020.bin",
+    "spectral_count": 344,
+    "angular_error": 12.114308341135173,
+    "src_start": 52.81,
+    "src_end": 55.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_27_5742.bin",
+    "spectral_count": 33,
+    "angular_error": 5.526528815422809,
+    "src_start": 35.0,
+    "src_end": 36.36
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_579_36533.bin",
+    "spectral_count": 93,
+    "angular_error": 11.889085907170356,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_576_36565.bin",
+    "spectral_count": 142,
+    "angular_error": 8.05945677833587,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_576_36620.bin",
+    "spectral_count": 190,
+    "angular_error": 7.484071636943003,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_579_36627.bin",
+    "spectral_count": 143,
+    "angular_error": 9.708273903056408,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_576_36674.bin",
+    "spectral_count": 238,
+    "angular_error": 4.571949593170419,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_579_36691.bin",
+    "spectral_count": 172,
+    "angular_error": 2.900982484335134,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_576_36782.bin",
+    "spectral_count": 242,
+    "angular_error": 4.513988971828723,
+    "src_start": 281.24,
+    "src_end": 283.29
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_2_1482.bin",
+    "spectral_count": 54,
+    "angular_error": 10.622516292100158,
+    "src_start": 0.39,
+    "src_end": 1.41
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_3_1482.bin",
+    "spectral_count": 50,
+    "angular_error": 4.254647883958885,
+    "src_start": 0.39,
+    "src_end": 1.41
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_98_9405.bin",
+    "spectral_count": 94,
+    "angular_error": 4.093153725353725,
+    "src_start": 63.17,
+    "src_end": 66.03
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_98_9520.bin",
+    "spectral_count": 142,
+    "angular_error": 8.009169629949827,
+    "src_start": 63.17,
+    "src_end": 66.03
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_11887.bin",
+    "spectral_count": 95,
+    "angular_error": 8.441356940459627,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_11953.bin",
+    "spectral_count": 142,
+    "angular_error": 8.146080145018267,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12002.bin",
+    "spectral_count": 190,
+    "angular_error": 6.091161995249757,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12056.bin",
+    "spectral_count": 234,
+    "angular_error": 5.371338003705481,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12108.bin",
+    "spectral_count": 287,
+    "angular_error": 8.73245570966558,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12163.bin",
+    "spectral_count": 334,
+    "angular_error": 11.985406357458858,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12239.bin",
+    "spectral_count": 380,
+    "angular_error": 2.0722909192507917,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_138_12304.bin",
+    "spectral_count": 431,
+    "angular_error": 9.483535167889196,
+    "src_start": 84.44,
+    "src_end": 90.94
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_308_19422.bin",
+    "spectral_count": 17,
+    "angular_error": 9.770203685936963,
+    "src_start": 147.79,
+    "src_end": 148.69
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_323_19921.bin",
+    "spectral_count": 90,
+    "angular_error": 1.03034646483418,
+    "src_start": 147.79,
+    "src_end": 148.69
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_323_20142.bin",
+    "spectral_count": 96,
+    "angular_error": 0.6301239732546324,
+    "src_start": 147.79,
+    "src_end": 148.69
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_297_19158.bin",
+    "spectral_count": 60,
+    "angular_error": 8.314842614554438,
+    "src_start": 142.03,
+    "src_end": 143.74
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_301_19290.bin",
+    "spectral_count": 12,
+    "angular_error": 3.9385472872610725,
+    "src_start": 142.03,
+    "src_end": 143.74
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_19_4255.bin",
+    "spectral_count": 52,
+    "angular_error": 6.4865727852899795,
+    "src_start": 22.59,
+    "src_end": 23.62
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_23_4429.bin",
+    "spectral_count": 58,
+    "angular_error": 2.3034507523443963,
+    "src_start": 22.59,
+    "src_end": 23.62
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_269_17027.bin",
+    "spectral_count": 95,
+    "angular_error": 1.1626525839131556,
+    "src_start": 125.2,
+    "src_end": 127.89
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_270_17027.bin",
+    "spectral_count": 33,
+    "angular_error": 0.5270031098106599,
+    "src_start": 125.2,
+    "src_end": 127.89
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_269_17083.bin",
+    "spectral_count": 139,
+    "angular_error": 1.1484645038207386,
+    "src_start": 125.2,
+    "src_end": 127.89
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_269_17371.bin",
+    "spectral_count": 270,
+    "angular_error": 5.473397483003755,
+    "src_start": 125.2,
+    "src_end": 127.89
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17134.bin",
+    "spectral_count": 90,
+    "angular_error": 4.621920584719637,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_269_17178.bin",
+    "spectral_count": 188,
+    "angular_error": 14.194068562407955,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17202.bin",
+    "spectral_count": 142,
+    "angular_error": 4.143073848123541,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17252.bin",
+    "spectral_count": 189,
+    "angular_error": 2.3844890115117443,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_269_17284.bin",
+    "spectral_count": 239,
+    "angular_error": 10.527150326574912,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17327.bin",
+    "spectral_count": 237,
+    "angular_error": 3.37281113649128,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17385.bin",
+    "spectral_count": 285,
+    "angular_error": 1.4388017514567837,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17433.bin",
+    "spectral_count": 331,
+    "angular_error": 0.004107134279945415,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_271_17490.bin",
+    "spectral_count": 343,
+    "angular_error": 0.8585273452369973,
+    "src_start": 126.26,
+    "src_end": 129.33
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7810.bin",
+    "spectral_count": 189,
+    "angular_error": 3.8335252325172213,
+    "src_start": 50.88,
+    "src_end": 53.67
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7863.bin",
+    "spectral_count": 237,
+    "angular_error": 5.1459153230561805,
+    "src_start": 50.88,
+    "src_end": 53.67
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_55_7911.bin",
+    "spectral_count": 285,
+    "angular_error": 6.23149722774574,
+    "src_start": 50.88,
+    "src_end": 53.67
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_2697.bin",
+    "spectral_count": 94,
+    "angular_error": 4.771355777720977,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2700.bin",
+    "spectral_count": 95,
+    "angular_error": 8.159506948639168,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2755.bin",
+    "spectral_count": 141,
+    "angular_error": 8.03570934284415,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2805.bin",
+    "spectral_count": 189,
+    "angular_error": 7.800766559744755,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2854.bin",
+    "spectral_count": 239,
+    "angular_error": 6.588482575817771,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_2852.bin",
+    "spectral_count": 141,
+    "angular_error": 3.4781818718394626,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2906.bin",
+    "spectral_count": 284,
+    "angular_error": 5.8712412453035725,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_2956.bin",
+    "spectral_count": 330,
+    "angular_error": 5.123784915759731,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_2957.bin",
+    "spectral_count": 188,
+    "angular_error": 4.0126913667606345,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3006.bin",
+    "spectral_count": 378,
+    "angular_error": 5.332235881086228,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3054.bin",
+    "spectral_count": 430,
+    "angular_error": 6.367362505464164,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_3066.bin",
+    "spectral_count": 236,
+    "angular_error": 3.9988765247638116,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3110.bin",
+    "spectral_count": 475,
+    "angular_error": 5.664404050149704,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_3149.bin",
+    "spectral_count": 287,
+    "angular_error": 2.774788258855779,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3161.bin",
+    "spectral_count": 522,
+    "angular_error": 7.258651176078847,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3210.bin",
+    "spectral_count": 573,
+    "angular_error": 6.258156528260215,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_3241.bin",
+    "spectral_count": 334,
+    "angular_error": 4.169459224185751,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3261.bin",
+    "spectral_count": 620,
+    "angular_error": 5.807573743806299,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3310.bin",
+    "spectral_count": 671,
+    "angular_error": 6.235793994429006,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_3324.bin",
+    "spectral_count": 383,
+    "angular_error": 4.7174748699116105,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3367.bin",
+    "spectral_count": 719,
+    "angular_error": 6.890590646282107,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3415.bin",
+    "spectral_count": 767,
+    "angular_error": 6.421629513118947,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_12_3415.bin",
+    "spectral_count": 422,
+    "angular_error": 3.34883241256951,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3505.bin",
+    "spectral_count": 814,
+    "angular_error": 7.388707879981918,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_13_3650.bin",
+    "spectral_count": 825,
+    "angular_error": 8.820284307805911,
+    "src_start": 11.03,
+    "src_end": 17.53
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_525_33179.bin",
+    "spectral_count": 17,
+    "angular_error": 12.801216699297328,
+    "src_start": 252.44,
+    "src_end": 253.46
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_27962.bin",
+    "spectral_count": 94,
+    "angular_error": 1.2909225874977897,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_27969.bin",
+    "spectral_count": 90,
+    "angular_error": 3.5630684479727064,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28016.bin",
+    "spectral_count": 142,
+    "angular_error": 1.1354851624195945,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28050.bin",
+    "spectral_count": 140,
+    "angular_error": 0.05868060677092311,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28064.bin",
+    "spectral_count": 187,
+    "angular_error": 0.5373810131490923,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28115.bin",
+    "spectral_count": 239,
+    "angular_error": 0.949940366691527,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28120.bin",
+    "spectral_count": 188,
+    "angular_error": 1.9398204187383765,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28165.bin",
+    "spectral_count": 282,
+    "angular_error": 0.82244637665887,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28181.bin",
+    "spectral_count": 237,
+    "angular_error": 2.2588897793462706,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28218.bin",
+    "spectral_count": 333,
+    "angular_error": 1.3773253125667706,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28251.bin",
+    "spectral_count": 283,
+    "angular_error": 2.700431593643289,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28269.bin",
+    "spectral_count": 379,
+    "angular_error": 1.093721433802076,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28313.bin",
+    "spectral_count": 334,
+    "angular_error": 2.8650163009840184,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28325.bin",
+    "spectral_count": 430,
+    "angular_error": 0.7514877562269563,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_463_28382.bin",
+    "spectral_count": 476,
+    "angular_error": 3.822129931060807,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_464_28400.bin",
+    "spectral_count": 363,
+    "angular_error": 6.4989624507113355,
+    "src_start": 213.11,
+    "src_end": 217.11
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_365_23517.bin",
+    "spectral_count": 94,
+    "angular_error": 6.897403600581891,
+    "src_start": 177.24,
+    "src_end": 181.68
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_365_23577.bin",
+    "spectral_count": 140,
+    "angular_error": 6.833259505898843,
+    "src_start": 177.24,
+    "src_end": 181.68
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_365_23632.bin",
+    "spectral_count": 190,
+    "angular_error": 7.612568167561607,
+    "src_start": 177.24,
+    "src_end": 181.68
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_365_23969.bin",
+    "spectral_count": 222,
+    "angular_error": 1.5092723545828202,
+    "src_start": 177.24,
+    "src_end": 181.68
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_347_22933.bin",
+    "spectral_count": 60,
+    "angular_error": 5.956435973755833,
+    "src_start": 171.95,
+    "src_end": 172.86
+  },
+  {
+    "label": "drone_bebop",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_348_22934.bin",
+    "spectral_count": 37,
+    "angular_error": 9.97376162046299,
+    "src_start": 171.95,
+    "src_end": 172.86
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_398_26135.bin",
+    "spectral_count": 94,
+    "angular_error": 1.3048365277776899,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_401_26151.bin",
+    "spectral_count": 86,
+    "angular_error": 12.618316563590815,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_398_26243.bin",
+    "spectral_count": 143,
+    "angular_error": 11.19316386416769,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_402_26415.bin",
+    "spectral_count": 92,
+    "angular_error": 0.9635351833319804,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_402_26609.bin",
+    "spectral_count": 106,
+    "angular_error": 3.016959729575608,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_406_27013.bin",
+    "spectral_count": 108,
+    "angular_error": 0.1999331441110878,
+    "src_start": 198.49,
+    "src_end": 205.88
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_406_26789.bin",
+    "spectral_count": 95,
+    "angular_error": 14.240479550742194,
+    "src_start": 203.64,
+    "src_end": 206.27
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_170_12932.bin",
+    "spectral_count": 69,
+    "angular_error": 6.323440864514662,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13283.bin",
+    "spectral_count": 139,
+    "angular_error": 9.717396454152665,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13331.bin",
+    "spectral_count": 189,
+    "angular_error": 3.9355051113092325,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13389.bin",
+    "spectral_count": 234,
+    "angular_error": 2.2056677500557647,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13452.bin",
+    "spectral_count": 285,
+    "angular_error": 3.1336091749017596,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13503.bin",
+    "spectral_count": 331,
+    "angular_error": 2.1589967536314063,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_188_13553.bin",
+    "spectral_count": 363,
+    "angular_error": 2.8538799881839587,
+    "src_start": 94.47,
+    "src_end": 98.42
+  },
+  {
+    "label": "drone_binary",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_616_38707.bin",
+    "spectral_count": 98,
+    "angular_error": 9.127615042088511,
+    "src_start": 298.13,
+    "src_end": 299.16
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_377_24669.bin",
+    "spectral_count": 12,
+    "angular_error": 0.3696837604712817,
+    "src_start": 186.37,
+    "src_end": 187.66
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_378_24716.bin",
+    "spectral_count": 118,
+    "angular_error": 1.944166227316575,
+    "src_start": 186.37,
+    "src_end": 187.66
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_255_16445.bin",
+    "spectral_count": 94,
+    "angular_error": 2.3609360820843834,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16590.bin",
+    "spectral_count": 143,
+    "angular_error": 3.9335932549618824,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_255_16632.bin",
+    "spectral_count": 143,
+    "angular_error": 2.279621592401935,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16639.bin",
+    "spectral_count": 191,
+    "angular_error": 4.728017525157968,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16687.bin",
+    "spectral_count": 239,
+    "angular_error": 4.711103882968451,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_255_16719.bin",
+    "spectral_count": 188,
+    "angular_error": 2.582027908381065,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Frog",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_265_16735.bin",
+    "spectral_count": 286,
+    "angular_error": 4.585205313798897,
+    "src_start": 120.91,
+    "src_end": 128.91
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_101_9491.bin",
+    "spectral_count": 20,
+    "angular_error": 0.610040643101938,
+    "src_start": 64.31,
+    "src_end": 67.55
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_104_9531.bin",
+    "spectral_count": 7,
+    "angular_error": 0.7174654015790747,
+    "src_start": 64.31,
+    "src_end": 67.55
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_434_27174.bin",
+    "spectral_count": 95,
+    "angular_error": 8.636285666427826,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27182.bin",
+    "spectral_count": 95,
+    "angular_error": 1.6923513191605573,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27241.bin",
+    "spectral_count": 142,
+    "angular_error": 1.4226574384780664,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27296.bin",
+    "spectral_count": 190,
+    "angular_error": 3.5496224284014435,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27350.bin",
+    "spectral_count": 235,
+    "angular_error": 3.257481534138774,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_434_27351.bin",
+    "spectral_count": 142,
+    "angular_error": 0.02641786901918697,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27401.bin",
+    "spectral_count": 287,
+    "angular_error": 2.413237571422344,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_434_27500.bin",
+    "spectral_count": 189,
+    "angular_error": 2.4197557524346096,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27511.bin",
+    "spectral_count": 333,
+    "angular_error": 0.9687195187332799,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27561.bin",
+    "spectral_count": 382,
+    "angular_error": 1.8564341628956844,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_434_27604.bin",
+    "spectral_count": 219,
+    "angular_error": 9.894126411402967,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Lion",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_435_27616.bin",
+    "spectral_count": 420,
+    "angular_error": 0.37769180662467766,
+    "src_start": 202.82,
+    "src_end": 210.72
+  },
+  {
+    "label": "Elephant",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_289_18687.bin",
+    "spectral_count": 74,
+    "angular_error": 6.671073167234365,
+    "src_start": 137.31,
+    "src_end": 140.16
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_472_29231.bin",
+    "spectral_count": 94,
+    "angular_error": 4.062949426689256,
+    "src_start": 223.06,
+    "src_end": 224.66
+  },
+  {
+    "label": "Bear",
+    "spectra_file": "/Users/abhinav/research/experiments/odas/logs_lowfp/patch_472_29360.bin",
+    "spectral_count": 112,
+    "angular_error": 3.650285057855622,
+    "src_start": 223.06,
+    "src_end": 224.66
+  }
+]

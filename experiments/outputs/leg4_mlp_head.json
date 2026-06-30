@@ -1,0 +1,37 @@
+{
+  "Elephant": {
+    "auc_mlp": 0.869,
+    "auc_linear": 0.9,
+    "delta": -0.031,
+    "epochs_run": 14,
+    "pass_gt_2pct": false
+  },
+  "Drone": {
+    "auc_mlp": 1.0,
+    "auc_linear": 1.0,
+    "delta": -0.0,
+    "epochs_run": 50,
+    "pass_gt_2pct": false
+  },
+  "Lion": {
+    "auc_mlp": 1.0,
+    "auc_linear": 1.0,
+    "delta": 0.0,
+    "epochs_run": 40,
+    "pass_gt_2pct": false
+  },
+  "Monkey": {
+    "auc_mlp": 1.0,
+    "auc_linear": 1.0,
+    "delta": 0.0,
+    "epochs_run": 28,
+    "pass_gt_2pct": false
+  },
+  "Frog": {
+    "auc_mlp": 0.992,
+    "auc_linear": 0.993,
+    "delta": -0.001,
+    "epochs_run": 20,
+    "pass_gt_2pct": false
+  }
+}

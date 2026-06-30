@@ -1,0 +1,34 @@
+[
+  {
+    "unfreeze": 6,
+    "seed": 0,
+    "train": 0.746,
+    "test": 0.614,
+    "mixed": 0.587,
+    "per": {
+      "Bear": 0.37,
+      "Elephant": 0.5,
+      "Frog": 0.68,
+      "Lion": 0.9,
+      "background": 0.64,
+      "drone_bebop": 0.54,
+      "drone_binary": 0.03
+    }
+  },
+  {
+    "unfreeze": 6,
+    "seed": 1,
+    "train": 0.76,
+    "test": 0.624,
+    "mixed": 0.612,
+    "per": {
+      "Bear": 0.53,
+      "Elephant": 0.54,
+      "Frog": 0.61,
+      "Lion": 0.88,
+      "background": 0.64,
+      "drone_bebop": 0.46,
+      "drone_binary": 0.19
+    }
+  }
+]

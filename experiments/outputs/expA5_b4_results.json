@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "model": "6-class baseline",
+    "recall": 0.333,
+    "clip_acc": 0.47,
+    "fp_per_min": 48.51,
+    "ghost_total": 132,
+    "ghost_fired": 132
+  },
+  "same_env": {
+    "model": "+A5 same-env neg",
+    "recall": 0.283,
+    "clip_acc": 0.349,
+    "fp_per_min": 9.19,
+    "ghost_total": 132,
+    "ghost_fired": 25
+  },
+  "cross_env": {
+    "model": "+Eco_Park cross-env neg",
+    "recall": 0.25,
+    "clip_acc": 0.376,
+    "fp_per_min": 15.07,
+    "ghost_total": 132,
+    "ghost_fired": 41
+  }
+}

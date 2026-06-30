@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "Bear",
+    "Elephant",
+    "Frog",
+    "Lion",
+    "drone_bebop",
+    "drone_binary"
+  ],
+  "n_train": 99,
+  "n_test": 21,
+  "test_clip_accuracy": 0.81,
+  "per_class_f1": {
+    "Bear": 0.8,
+    "Elephant": 0.8,
+    "Frog": 0.909,
+    "Lion": 0.769,
+    "drone_bebop": 0.8,
+    "drone_binary": 0.667
+  },
+  "n_holdout": 111,
+  "holdout_clip_accuracy": 0.604,
+  "holdout_per_class_f1": {
+    "Bear": 0.378,
+    "Elephant": 0.839,
+    "Frog": 0.836,
+    "Lion": 0.449,
+    "drone_bebop": 0.353,
+    "drone_binary": 0.476
+  }
+}

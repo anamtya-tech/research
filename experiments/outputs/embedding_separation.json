@@ -1,0 +1,8 @@
+{
+  "knn_purity_k10": 0.799,
+  "silhouette": 0.044,
+  "methods": [
+    "UMAP",
+    "t-SNE"
+  ]
+}

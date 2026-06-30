@@ -1,0 +1,72 @@
+{
+  "Elephant": {
+    "common_top1": "Jackhammer",
+    "common_top1_n": 8,
+    "top1_sensible": false,
+    "mean_top1_score": 0.721,
+    "pct_relevant_in_top5": 12.0,
+    "top1_distribution": {
+      "Jackhammer": 8,
+      "Cupboard open or close": 4,
+      "Machine gun": 3,
+      "Fusillade": 3,
+      "Keys jangling": 3
+    }
+  },
+  "Drone": {
+    "common_top1": "Jackhammer",
+    "common_top1_n": 13,
+    "top1_sensible": false,
+    "mean_top1_score": 0.704,
+    "pct_relevant_in_top5": 0.0,
+    "top1_distribution": {
+      "Jackhammer": 13,
+      "Singing": 13,
+      "Camera": 4,
+      "Chuckle, chortle": 4,
+      "Accelerating, revving, vroom": 3
+    }
+  },
+  "Lion": {
+    "common_top1": "Cupboard open or close",
+    "common_top1_n": 16,
+    "top1_sensible": false,
+    "mean_top1_score": 0.763,
+    "pct_relevant_in_top5": 2.0,
+    "top1_distribution": {
+      "Cupboard open or close": 16,
+      "Eruption": 13,
+      "Jackhammer": 9,
+      "Plop": 1,
+      "Cello": 1
+    }
+  },
+  "Monkey": {
+    "common_top1": "Rail transport",
+    "common_top1_n": 4,
+    "top1_sensible": false,
+    "mean_top1_score": 0.72,
+    "pct_relevant_in_top5": 2.0,
+    "top1_distribution": {
+      "Rail transport": 4,
+      "Eruption": 4,
+      "Walk, footsteps": 4,
+      "Static": 3,
+      "Boat, Water vehicle": 3
+    }
+  },
+  "Frog": {
+    "common_top1": "Eruption",
+    "common_top1_n": 8,
+    "top1_sensible": false,
+    "mean_top1_score": 0.795,
+    "pct_relevant_in_top5": 0.0,
+    "top1_distribution": {
+      "Eruption": 8,
+      "Keys jangling": 8,
+      "Snort": 7,
+      "Jackhammer": 4,
+      "Singing": 2
+    }
+  }
+}

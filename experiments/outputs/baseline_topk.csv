@@ -1,0 +1,451 @@
+clip_id,label,split,top1,top2,top3,top4,top5,top1_score,top2_score,top3_score,top4_score,top5_score
+elephant_000,Elephant,test,"Splash, splatter","Slap, smack","Heart sounds, heartbeat","Neigh, whinny",Growling,0.794,0.7775,0.7739,0.7663,0.7541
+elephant_001,Elephant,train,"Splash, splatter","Heart sounds, heartbeat",Cello,"Neigh, whinny","Slap, smack",0.7839,0.777,0.7752,0.7702,0.7652
+elephant_002,Elephant,train,Machine gun,French horn,Truck,"Accelerating, revving, vroom","Heart sounds, heartbeat",0.6957,0.6938,0.6927,0.6925,0.6716
+elephant_003,Elephant,train,Jackhammer,Raindrop,Drip,Wheeze,"Ratchet, pawl",0.7351,0.7273,0.7076,0.7069,0.6868
+elephant_004,Elephant,train,Tabla,Engine,Computer keyboard,Hammer,Wheeze,0.7106,0.7076,0.6928,0.6927,0.6915
+elephant_005,Elephant,test,Eruption,"Splash, splatter",Distortion,Vibraphone,Yell,0.798,0.7887,0.7872,0.7764,0.7634
+elephant_006,Elephant,train,"Boat, Water vehicle",Snort,Synthesizer,Rail transport,Electronic organ,0.7295,0.7283,0.7278,0.7184,0.714
+elephant_007,Elephant,train,"Walk, footsteps",Drum and bass,Keys jangling,Shuffling cards,Sound effect,0.6421,0.6346,0.6312,0.6305,0.625
+elephant_008,Elephant,test,"Walk, footsteps",Toilet flush,Chainsaw,Gargling,Plop,0.7149,0.6995,0.6613,0.658,0.6373
+elephant_009,Elephant,train,Drip,Jackhammer,Wheeze,Computer keyboard,Raindrop,0.7313,0.715,0.7107,0.7002,0.689
+elephant_010,Elephant,train,A capella,Eruption,Waterfall,"Walk, footsteps",Reversing beeps,0.7891,0.7814,0.7802,0.7708,0.7398
+elephant_011,Elephant,train,Fusillade,Liquid,Ocean,Growling,Field recording,0.733,0.7324,0.7311,0.7288,0.7234
+elephant_012,Elephant,test,Keys jangling,Gong,Singing,Gargling,"Bird flight, flapping wings",0.7147,0.6761,0.6641,0.6595,0.657
+elephant_013,Elephant,train,Trumpet,"Splash, splatter",Sitar,"Ratchet, pawl",Cupboard open or close,0.83,0.8272,0.8212,0.8106,0.8102
+elephant_014,Elephant,train,Field recording,Fusillade,Cello,Honk,Ocean,0.7353,0.7249,0.7218,0.7204,0.7144
+elephant_015,Elephant,test,Cupboard open or close,Machine gun,Eruption,Cello,Electronic dance music,0.8475,0.8376,0.8241,0.8104,0.8017
+elephant_016,Elephant,train,Cupboard open or close,Honk,Wheeze,Zither,Plop,0.771,0.7373,0.7284,0.728,0.7261
+elephant_017,Elephant,train,"Heart sounds, heartbeat",Static,"Splash, splatter",Cupboard open or close,Boing,0.695,0.6685,0.6656,0.6629,0.6618
+elephant_018,Elephant,train,Pour,Medium engine (mid frequency),Music for children,Glockenspiel,Truck,0.6616,0.6572,0.65,0.6476,0.647
+elephant_019,Elephant,test,Eruption,Jackhammer,Camera,Machine gun,Cello,0.6748,0.6275,0.6254,0.6194,0.6156
+elephant_020,Elephant,train,Boom,"Walk, footsteps",Waterfall,Eruption,"Slap, smack",0.7013,0.6687,0.6577,0.656,0.6462
+elephant_021,Elephant,train,Heavy engine (low frequency),Wind noise (microphone),Truck,Change ringing (campanology),Tools,0.6789,0.6751,0.67,0.6686,0.6609
+elephant_022,Elephant,test,"Heart sounds, heartbeat","Bird flight, flapping wings",Tools,Drill,Electronic organ,0.6908,0.6408,0.6356,0.6303,0.6232
+elephant_023,Elephant,train,Conversation,"Canidae, dogs, wolves",Boom,Waterfall,"Walk, footsteps",0.6377,0.6355,0.6303,0.629,0.621
+elephant_024,Elephant,train,Honk,Scratching (performance technique),Music of Asia,"Crumpling, crinkling",Duck,0.711,0.7029,0.6956,0.6943,0.687
+elephant_025,Elephant,train,Camera,French horn,Toilet flush,Choir,Eruption,0.6412,0.6386,0.6382,0.6301,0.6265
+elephant_026,Elephant,train,Jackhammer,Singing,Gargling,Pump (liquid),Ocean,0.6652,0.6475,0.644,0.6342,0.6324
+elephant_027,Elephant,train,Jackhammer,Wheeze,Screaming,Computer keyboard,Change ringing (campanology),0.7138,0.7135,0.7075,0.698,0.6979
+elephant_028,Elephant,train,Jackhammer,Wheeze,Air conditioning,Change ringing (campanology),Cap gun,0.6624,0.6555,0.6498,0.6425,0.6418
+elephant_029,Elephant,train,Keys jangling,Toilet flush,French horn,Snake,Tap,0.6715,0.6565,0.637,0.6321,0.6309
+elephant_030,Elephant,train,Whale vocalization,Hoot,"Accelerating, revving, vroom",Tender music,Siren,0.6408,0.6361,0.6348,0.6262,0.6249
+elephant_031,Elephant,test,Keys jangling,Toilet flush,Clapping,Sizzle,Angry music,0.7274,0.6855,0.6843,0.6795,0.6608
+elephant_032,Elephant,train,Toilet flush,Chainsaw,Cap gun,Doorbell,Electronic tuner,0.7166,0.7075,0.7068,0.697,0.6955
+elephant_033,Elephant,test,Growling,Eruption,Machine gun,"Ratchet, pawl",Throbbing,0.8414,0.8404,0.8361,0.8288,0.811
+elephant_034,Elephant,train,Chainsaw,Toilet flush,Cap gun,Electronic tuner,Doorbell,0.7169,0.7114,0.7052,0.7041,0.7002
+elephant_035,Elephant,train,Jackhammer,Drum roll,"Burping, eructation",Bow-wow,Gears,0.6709,0.6685,0.6634,0.6591,0.6479
+elephant_036,Elephant,train,Tender music,Whale vocalization,Exciting music,"Accelerating, revving, vroom","Whack, thwack",0.6514,0.648,0.6446,0.644,0.6422
+elephant_037,Elephant,test,Cupboard open or close,Field recording,Reversing beeps,"Neigh, whinny",Plucked string instrument,0.721,0.709,0.6833,0.6831,0.6756
+elephant_038,Elephant,train,Jackhammer,Basketball bounce,Lullaby,Sitar,Harmonic,0.6969,0.6728,0.6713,0.6609,0.6597
+elephant_039,Elephant,train,Static,"Splash, splatter",Jackhammer,Cupboard open or close,"Ratchet, pawl",0.7496,0.7493,0.746,0.727,0.7223
+elephant_040,Elephant,test,Fusillade,Eruption,Growling,Field recording,"Splash, splatter",0.7617,0.7593,0.7561,0.7516,0.7493
+elephant_041,Elephant,train,Jackhammer,Ding,Plucked string instrument,Wind noise (microphone),Eruption,0.6917,0.6585,0.6551,0.653,0.6466
+elephant_042,Elephant,train,Jackhammer,"Slap, smack",Toilet flush,Wheeze,Flute,0.6772,0.6545,0.6497,0.6415,0.6368
+elephant_043,Elephant,train,Engine,Wheeze,Jackhammer,Cap gun,Growling,0.7058,0.703,0.7003,0.687,0.6834
+elephant_044,Elephant,train,Machine gun,Eruption,"Heart sounds, heartbeat","Ratchet, pawl",Sitar,0.8413,0.8283,0.8119,0.8114,0.802
+elephant_045,Elephant,train,Fusillade,Cello,Growling,Eruption,Wheeze,0.7812,0.7788,0.7711,0.7705,0.7696
+elephant_046,Elephant,test,Cupboard open or close,Computer keyboard,"Neigh, whinny",Alarm clock,Fusillade,0.6733,0.6526,0.6507,0.6459,0.6419
+elephant_047,Elephant,train,Wheeze,Plop,Machine gun,Cello,Jackhammer,0.7294,0.7061,0.7053,0.6978,0.6914
+elephant_048,Elephant,train,Cap gun,Medium engine (mid frequency),Rain,Field recording,Toilet flush,0.7113,0.7066,0.6919,0.6773,0.6772
+elephant_049,Elephant,train,Machine gun,Zither,Cupboard open or close,Tick,Rock and roll,0.7743,0.7418,0.7342,0.7302,0.7292
+drone_000,Drone,train,"Bird flight, flapping wings",Mantra,Jackhammer,Music for children,"Accelerating, revving, vroom",0.73,0.6985,0.6961,0.6858,0.6839
+drone_001,Drone,train,Jackhammer,"Chuckle, chortle",Tuning fork,Foghorn,Tools,0.7804,0.7295,0.6916,0.6907,0.688
+drone_002,Drone,test,Singing,Scratch,Tools,Vibraphone,Wind noise (microphone),0.6747,0.645,0.6376,0.6373,0.6346
+drone_003,Drone,train,Singing,Camera,"Accelerating, revving, vroom",Cap gun,Shuffling cards,0.7351,0.6728,0.6565,0.6523,0.6507
+drone_004,Drone,train,Jackhammer,Camera,Tools,Keys jangling,Car,0.6928,0.6599,0.6396,0.6272,0.6266
+drone_005,Drone,train,"Accelerating, revving, vroom",Mantra,Bird,Wind noise (microphone),Thunderstorm,0.6787,0.6702,0.6625,0.6537,0.6526
+drone_006,Drone,train,Jackhammer,"Heart sounds, heartbeat",Scratch,Vibraphone,Singing,0.7281,0.7052,0.7034,0.6979,0.6877
+drone_007,Drone,train,Singing,Vibraphone,Jackhammer,Camera,Scratch,0.7245,0.6626,0.6605,0.6572,0.6472
+drone_008,Drone,train,Singing,Scratch,Vibraphone,Jackhammer,"Accelerating, revving, vroom",0.7291,0.6857,0.6815,0.6719,0.6692
+drone_009,Drone,test,Camera,Jackhammer,Eruption,Printer,Car,0.6635,0.6443,0.6314,0.6274,0.6239
+drone_010,Drone,train,"Chuckle, chortle",Scratch,Jackhammer,Keys jangling,Camera,0.6751,0.6532,0.6412,0.6319,0.6263
+drone_011,Drone,test,Jackhammer,Vibraphone,Scratch,"Heart sounds, heartbeat",Skateboard,0.7058,0.697,0.6853,0.6619,0.6442
+drone_012,Drone,train,"Chuckle, chortle",Scratch,Mantra,Yell,Vibraphone,0.7049,0.7039,0.7024,0.6807,0.6647
+drone_013,Drone,train,Jackhammer,"Accelerating, revving, vroom",Singing,Tools,"Heart sounds, heartbeat",0.7838,0.7388,0.7373,0.7064,0.6888
+drone_014,Drone,train,Camera,Jackhammer,Keys jangling,Sink (filling or washing),Scratch,0.6928,0.6893,0.6826,0.6638,0.6497
+drone_015,Drone,train,Clapping,Gong,Yell,"Chuckle, chortle",Water,0.6992,0.6841,0.6796,0.6744,0.6708
+drone_016,Drone,test,Singing,"Thump, thud",Jackhammer,Scratch,"Chuckle, chortle",0.6799,0.671,0.6597,0.6529,0.6466
+drone_017,Drone,test,Singing,Glockenspiel,"Heart sounds, heartbeat",Jackhammer,"Accelerating, revving, vroom",0.7092,0.6765,0.6698,0.6695,0.661
+drone_018,Drone,train,Singing,"Accelerating, revving, vroom",Camera,Machine gun,Bouncing,0.7561,0.6935,0.6866,0.6839,0.6659
+drone_019,Drone,train,Camera,"Accelerating, revving, vroom",Car,Keys jangling,Thunderstorm,0.6742,0.6543,0.6542,0.6443,0.6426
+drone_020,Drone,train,Singing,Tools,"Accelerating, revving, vroom",Mains hum,Steelpan,0.7139,0.6588,0.6542,0.6421,0.6421
+drone_021,Drone,test,Singing,Scratch,Car alarm,Camera,Truck,0.7402,0.6965,0.6897,0.6854,0.6779
+drone_022,Drone,train,Change ringing (campanology),"Accelerating, revving, vroom",Jackhammer,Scratch,Eruption,0.6778,0.6615,0.659,0.648,0.6478
+drone_023,Drone,train,"Accelerating, revving, vroom",Jackhammer,Water,Singing,Steelpan,0.6882,0.6877,0.6864,0.6853,0.6721
+drone_024,Drone,test,Jackhammer,Bird,"Walk, footsteps",Chainsaw,Mantra,0.7292,0.7276,0.6928,0.6886,0.6817
+drone_025,Drone,train,"Walk, footsteps",Mantra,Singing,Scratch,Change ringing (campanology),0.6982,0.6756,0.6714,0.6661,0.6649
+drone_026,Drone,train,Scratch,Singing,Mantra,Ringtone,Pig,0.7008,0.66,0.6504,0.6453,0.6353
+drone_027,Drone,train,Singing,"Chuckle, chortle","Child speech, kid speaking",Mantra,Scratch,0.6855,0.6741,0.6652,0.6647,0.6537
+drone_028,Drone,test,"Bird flight, flapping wings","Accelerating, revving, vroom",Shuffling cards,Pig,"Heart sounds, heartbeat",0.7068,0.684,0.6838,0.6763,0.6702
+drone_029,Drone,train,Jackhammer,Keys jangling,Camera,Car,Tools,0.6559,0.6546,0.6509,0.6472,0.6286
+drone_030,Drone,train,Jackhammer,Bird,Scratch,Pig,"Accelerating, revving, vroom",0.7023,0.6786,0.6666,0.666,0.6587
+drone_031,Drone,train,"Heart sounds, heartbeat",Pig,Jackhammer,Bird,Scratch,0.7444,0.7168,0.714,0.7053,0.6996
+drone_032,Drone,train,Pig,"Walk, footsteps",Scratch,Drum roll,Coo,0.6799,0.6684,0.6651,0.6559,0.6487
+drone_033,Drone,train,Jackhammer,"Walk, footsteps",Pig,Mantra,Scratch,0.7647,0.7463,0.7463,0.74,0.7326
+drone_034,Drone,train,Tools,Car,Jackhammer,Scratch,Camera,0.6508,0.6477,0.6416,0.6225,0.6176
+drone_035,Drone,train,Singing,Car alarm,Shuffling cards,Mantra,Scratch,0.7025,0.6972,0.6933,0.6927,0.6921
+drone_036,Drone,test,Singing,Camera,Mantra,Scratch,Jackhammer,0.7033,0.6809,0.6696,0.6695,0.6611
+drone_037,Drone,train,Truck,Camera,Singing,Gong,"Accelerating, revving, vroom",0.7665,0.7388,0.7373,0.7216,0.7148
+drone_038,Drone,test,"Accelerating, revving, vroom",Jackhammer,Static,Hiccup,Tools,0.7009,0.6944,0.6928,0.6915,0.689
+drone_039,Drone,test,Jackhammer,Tools,Camera,"Chuckle, chortle",Car,0.7248,0.724,0.6706,0.6659,0.6568
+drone_040,Drone,test,Jackhammer,"Walk, footsteps",Bird,Crushing,"Heart sounds, heartbeat",0.6944,0.6668,0.6632,0.6507,0.6499
+drone_041,Drone,train,"Chuckle, chortle","Canidae, dogs, wolves",Bird,Scratch,Gears,0.7044,0.6789,0.6438,0.6396,0.6353
+drone_042,Drone,train,Scratch,"Chuckle, chortle",Singing,"Canidae, dogs, wolves",Ringtone,0.6844,0.6704,0.6675,0.6534,0.6531
+drone_043,Drone,train,Scratch,"Chuckle, chortle",Jackhammer,Mantra,Singing,0.6578,0.6512,0.6505,0.6491,0.6444
+drone_044,Drone,train,Jackhammer,Hoot,Tools,Camera,Eruption,0.6981,0.6976,0.6884,0.6715,0.6513
+drone_045,Drone,train,Singing,Camera,Music for children,Jackhammer,Cap gun,0.696,0.6795,0.6759,0.6673,0.6549
+drone_046,Drone,train,Jackhammer,Bird,Mantra,"Chuckle, chortle",Steelpan,0.6954,0.6583,0.6559,0.6544,0.653
+drone_047,Drone,train,"Chuckle, chortle",Scratch,Jackhammer,Steelpan,Ringtone,0.6856,0.6813,0.6554,0.6412,0.6401
+drone_048,Drone,train,Tools,Car,"Accelerating, revving, vroom",Singing,Jackhammer,0.6815,0.6478,0.6446,0.6437,0.6413
+drone_049,Drone,train,Camera,"Chuckle, chortle",Scratch,Gasp,Keys jangling,0.6562,0.6429,0.6391,0.6275,0.6255
+lion_000,Lion,train,Jackhammer,Cello,Machine gun,Eruption,"Ratchet, pawl",0.7338,0.7246,0.7123,0.7003,0.693
+lion_001,Lion,train,Cupboard open or close,Duck,Plucked string instrument,"Crumpling, crinkling",Music of Asia,0.725,0.71,0.687,0.6851,0.6746
+lion_002,Lion,train,Cupboard open or close,"Heart sounds, heartbeat",Plop,Siren,"Splash, splatter",0.7442,0.7383,0.7066,0.706,0.7008
+lion_003,Lion,test,Cupboard open or close,Zither,Rustling leaves,Snoring,Wheeze,0.7204,0.7145,0.7072,0.7057,0.6933
+lion_004,Lion,train,Eruption,Jackhammer,Saxophone,"Ratchet, pawl",Cupboard open or close,0.8912,0.8775,0.8422,0.8257,0.8098
+lion_005,Lion,train,Cupboard open or close,Cello,Sitar,Jackhammer,Eruption,0.7991,0.799,0.7887,0.7882,0.787
+lion_006,Lion,train,Plop,Drip,Shofar,"Heart sounds, heartbeat","Splash, splatter",0.6745,0.6666,0.6584,0.6494,0.6473
+lion_007,Lion,train,Eruption,Whimper (dog),Throbbing,Cupboard open or close,Writing,0.7428,0.7393,0.7275,0.7231,0.7209
+lion_008,Lion,train,Cello,Eruption,Ocean,Drip,Camera,0.7981,0.7837,0.7546,0.7521,0.7479
+lion_009,Lion,train,Eruption,Fusillade,Field recording,Camera,Sitar,0.7929,0.7758,0.774,0.7443,0.7251
+lion_010,Lion,train,Cupboard open or close,Eruption,Sitar,Duck,Zither,0.8344,0.8155,0.8021,0.8011,0.7965
+lion_011,Lion,train,Cupboard open or close,Jackhammer,Eruption,Cello,"Ratchet, pawl",0.71,0.7081,0.6975,0.6967,0.6863
+lion_012,Lion,train,"Heart sounds, heartbeat","Neigh, whinny",Cupboard open or close,Water,"Slap, smack",0.8186,0.807,0.8015,0.7953,0.7948
+lion_013,Lion,train,Jackhammer,Eruption,Camera,Cupboard open or close,Cello,0.7022,0.679,0.676,0.6724,0.6688
+lion_014,Lion,train,Eruption,Jackhammer,Saxophone,"Ratchet, pawl",Cupboard open or close,0.8964,0.8827,0.8509,0.8354,0.8159
+lion_015,Lion,train,Tubular bells,Cupboard open or close,Moo,Drip,Siren,0.7534,0.7412,0.7277,0.7174,0.7143
+lion_016,Lion,train,Eruption,Cello,Machine gun,Cupboard open or close,Jackhammer,0.7425,0.7067,0.6996,0.6984,0.6925
+lion_017,Lion,train,Sitar,Eruption,Cupboard open or close,Electronic dance music,"Ratchet, pawl",0.7485,0.7471,0.7303,0.727,0.7205
+lion_018,Lion,test,Machine gun,Cello,Eruption,Cupboard open or close,Jackhammer,0.7583,0.741,0.7298,0.7231,0.7217
+lion_019,Lion,train,Rock and roll,Clapping,Moo,Throbbing,Cello,0.7262,0.6896,0.6863,0.6855,0.684
+lion_020,Lion,train,Jackhammer,Trumpet,Cello,Hiccup,Eruption,0.7444,0.7424,0.7302,0.7215,0.7184
+lion_021,Lion,test,Cupboard open or close,Eruption,Jackhammer,Cello,Sitar,0.7967,0.7945,0.792,0.7818,0.7805
+lion_022,Lion,train,Camera,Jackhammer,Cupboard open or close,Electric guitar,Eruption,0.6838,0.683,0.6677,0.6567,0.6467
+lion_023,Lion,train,Eruption,Cello,"Splash, splatter",Sitar,Electronic dance music,0.8415,0.8392,0.8139,0.8134,0.8092
+lion_024,Lion,train,Train,Truck,"Cattle, bovinae",Soul music,"Chewing, mastication",0.6842,0.6677,0.6632,0.6456,0.6454
+lion_025,Lion,train,Eruption,Machine gun,Cello,Sitar,Saxophone,0.8066,0.7967,0.7818,0.7811,0.7799
+lion_026,Lion,train,Jackhammer,Cello,Ocean,Eruption,Electric guitar,0.7671,0.7588,0.7377,0.7311,0.7281
+lion_027,Lion,test,Jackhammer,"Ratchet, pawl",Rustling leaves,Electric guitar,Bell,0.7239,0.7228,0.7006,0.6872,0.6747
+lion_028,Lion,test,Eruption,Mechanisms,Scratching (performance technique),Field recording,Jackhammer,0.707,0.6886,0.6844,0.6813,0.6737
+lion_029,Lion,train,Electric guitar,Jackhammer,Plop,Squish,Cello,0.7845,0.7473,0.739,0.7215,0.721
+lion_030,Lion,train,Jackhammer,Chainsaw,Hiccup,Moo,Electric guitar,0.7199,0.6905,0.688,0.686,0.6823
+lion_031,Lion,train,Eruption,Fusillade,Liquid,Saxophone,Cello,0.7934,0.7744,0.7725,0.7713,0.7674
+lion_032,Lion,test,Cupboard open or close,Eruption,"Heart sounds, heartbeat",Zither,Writing,0.7364,0.7154,0.7005,0.691,0.6833
+lion_033,Lion,train,Eruption,"Outside, rural or natural",Field recording,Ocean,Sitar,0.7375,0.7352,0.729,0.7205,0.6825
+lion_034,Lion,test,Cupboard open or close,Machine gun,Jackhammer,Static,Cello,0.8164,0.7985,0.7864,0.7719,0.7655
+lion_035,Lion,train,Jackhammer,Screaming,Change ringing (campanology),Bell,Didgeridoo,0.6906,0.6827,0.6593,0.6589,0.6571
+lion_036,Lion,train,Jackhammer,Cupboard open or close,Trumpet,Sitar,Saxophone,0.8425,0.8339,0.8187,0.8032,0.7914
+lion_037,Lion,train,Cupboard open or close,Cello,Plucked string instrument,Electric guitar,Snoring,0.726,0.6977,0.6936,0.6908,0.69
+lion_038,Lion,train,Cupboard open or close,Computer keyboard,Ocean,Rustling leaves,Cello,0.6931,0.6815,0.6684,0.6611,0.6565
+lion_039,Lion,train,Cupboard open or close,Honk,"Heart sounds, heartbeat",Plucked string instrument,Trumpet,0.783,0.7332,0.7287,0.7143,0.7054
+lion_040,Lion,train,Cupboard open or close,Siren,Jackhammer,Throbbing,Cello,0.755,0.7329,0.7111,0.7058,0.7008
+lion_041,Lion,test,Jackhammer,Plucked string instrument,Whale vocalization,Electric guitar,"Ratchet, pawl",0.7371,0.7121,0.7056,0.7031,0.7002
+lion_042,Lion,test,Eruption,Cupboard open or close,Jackhammer,Saxophone,Field recording,0.8517,0.8285,0.8265,0.8261,0.8192
+lion_043,Lion,train,"Outside, rural or natural",Eruption,Liquid,Fusillade,Tools,0.7513,0.7379,0.7316,0.7217,0.7125
+lion_044,Lion,train,Cupboard open or close,Field recording,Cello,Electric guitar,Trumpet,0.7207,0.696,0.6903,0.6878,0.687
+lion_045,Lion,test,Field recording,Cello,Electric guitar,Honk,Trumpet,0.7648,0.7597,0.732,0.7201,0.7172
+lion_046,Lion,train,Eruption,Sitar,Cello,Electric guitar,Jackhammer,0.8606,0.8391,0.8313,0.8147,0.808
+lion_047,Lion,train,Cupboard open or close,Electronic dance music,Cello,Eruption,Electric guitar,0.8561,0.8143,0.8138,0.7905,0.7887
+lion_048,Lion,train,Eruption,Raindrop,Vibration,A capella,Rock and roll,0.6941,0.687,0.68,0.6771,0.6755
+lion_049,Lion,train,Cupboard open or close,Cello,Field recording,Machine gun,Sitar,0.7587,0.7364,0.7298,0.7286,0.7223
+monkey_000,Monkey,train,Rail transport,Whistle,Eruption,Drip,Steam,0.7911,0.7688,0.7424,0.7412,0.7375
+monkey_001,Monkey,train,Eruption,Writing,Sound effect,"Inside, large room or hall",Gargling,0.7035,0.6939,0.6927,0.6906,0.6661
+monkey_002,Monkey,train,Snare drum,"Boat, Water vehicle","Inside, large room or hall","Walk, footsteps",Chopping (food),0.7075,0.6883,0.6786,0.6769,0.674
+monkey_003,Monkey,train,Angry music,Eruption,Snort,Whistle,Classical music,0.753,0.7491,0.7386,0.7357,0.7253
+monkey_004,Monkey,train,Singing,Steam,Writing,Ship,Gargling,0.7072,0.6974,0.6962,0.6959,0.6927
+monkey_005,Monkey,train,Pump (liquid),Gargling,"Hubbub, speech noise, speech babble",Electronic organ,Steam,0.6834,0.6761,0.6739,0.6699,0.6681
+monkey_006,Monkey,train,Power tool,Change ringing (campanology),Writing,Eruption,Jackhammer,0.6474,0.6374,0.6373,0.6248,0.6245
+monkey_007,Monkey,train,Waterfall,Steam,Angry music,"Power windows, electric windows","Inside, large room or hall",0.7224,0.7143,0.7126,0.7081,0.7065
+monkey_008,Monkey,test,Change ringing (campanology),Cello,Eruption,"Inside, large room or hall",Jackhammer,0.7208,0.7068,0.7052,0.696,0.6896
+monkey_009,Monkey,train,Jingle (music),Plucked string instrument,Camera,"Inside, large room or hall",Jackhammer,0.6928,0.68,0.6677,0.6663,0.6642
+monkey_010,Monkey,test,Static,"Walk, footsteps","Heart sounds, heartbeat",Boom,Machine gun,0.7479,0.7086,0.6998,0.6952,0.6878
+monkey_011,Monkey,train,Writing,Eruption,Cello,Boom,Ding,0.7449,0.7268,0.719,0.6886,0.6883
+monkey_012,Monkey,train,Static,Writing,"Heart sounds, heartbeat",Christian music,Cello,0.6613,0.6416,0.6397,0.6359,0.6284
+monkey_013,Monkey,test,Change ringing (campanology),Basketball bounce,Sink (filling or washing),Wood block,Whistle,0.6808,0.6791,0.675,0.6727,0.6692
+monkey_014,Monkey,train,"Wail, moan",Fill (with liquid),Jackhammer,Glockenspiel,Ding,0.7006,0.6469,0.6329,0.6288,0.6245
+monkey_015,Monkey,train,"Walk, footsteps","Inside, large room or hall","Wail, moan",Electronic organ,Classical music,0.6923,0.6908,0.6896,0.685,0.6798
+monkey_016,Monkey,train,Thunder,Squawk,Cello,Accordion,Whale vocalization,0.702,0.7007,0.6961,0.6957,0.6868
+monkey_017,Monkey,test,Writing,"Splash, splatter","Heart sounds, heartbeat",New-age music,Shofar,0.701,0.6889,0.6761,0.674,0.6681
+monkey_018,Monkey,train,Rail transport,"Wail, moan","Boat, Water vehicle",Drip,Rattle,0.7596,0.7494,0.7405,0.7276,0.7275
+monkey_019,Monkey,train,Rail transport,Drip,Sound effect,Sizzle,Shuffling cards,0.7288,0.7224,0.7189,0.7164,0.7162
+monkey_020,Monkey,train,"Boat, Water vehicle",Bicycle,Jackhammer,Television,Cymbal,0.771,0.7494,0.7425,0.7417,0.734
+monkey_021,Monkey,train,Duck,Gargling,Electronic organ,Singing bowl,Blues,0.7989,0.6973,0.697,0.6868,0.6844
+monkey_022,Monkey,train,Field recording,Rail transport,"Power windows, electric windows","Boat, Water vehicle",Eruption,0.7068,0.7028,0.6981,0.697,0.6854
+monkey_023,Monkey,train,Wind noise (microphone),"Boat, Water vehicle",Rail transport,Chopping (food),Television,0.7735,0.7696,0.7674,0.7542,0.7519
+monkey_024,Monkey,train,Sound effect,"Boat, Water vehicle","Walk, footsteps",Snare drum,"Fixed-wing aircraft, airplane",0.7205,0.7149,0.692,0.6813,0.6802
+monkey_025,Monkey,test,"Boat, Water vehicle",Electronic organ,Wind noise (microphone),"Fixed-wing aircraft, airplane",Sound effect,0.715,0.7123,0.7073,0.7052,0.7016
+monkey_026,Monkey,train,Snort,Eruption,Whale vocalization,Jingle (music),Patter,0.6419,0.6316,0.6165,0.6129,0.6126
+monkey_027,Monkey,test,"Walk, footsteps",Snare drum,Eruption,Ding,Bicycle,0.7642,0.7593,0.7556,0.7315,0.7276
+monkey_028,Monkey,train,Static,Writing,"Heart sounds, heartbeat",Cello,Pulleys,0.6924,0.6919,0.6829,0.6801,0.6731
+monkey_029,Monkey,train,Electronic music,Boom,Eruption,Drip,Cello,0.7402,0.7349,0.7305,0.7281,0.724
+monkey_030,Monkey,train,Chopping (food),Tubular bells,Plop,Drip,Didgeridoo,0.7393,0.7032,0.7023,0.7019,0.686
+monkey_031,Monkey,train,Didgeridoo,Ding,Change ringing (campanology),Basketball bounce,Tambourine,0.6825,0.6799,0.676,0.6702,0.662
+monkey_032,Monkey,train,"Boat, Water vehicle","Wail, moan",Basketball bounce,Sound effect,Snare drum,0.7342,0.73,0.7233,0.723,0.714
+monkey_033,Monkey,train,Exciting music,Change ringing (campanology),Rhythm and blues,Ding,Squawk,0.6834,0.6826,0.6755,0.6701,0.6698
+monkey_034,Monkey,train,"Walk, footsteps",Ding,Synthetic singing,Rhythm and blues,Blues,0.8204,0.8202,0.8156,0.7714,0.7573
+monkey_035,Monkey,test,"Walk, footsteps",Ding,Synthetic singing,Rhythm and blues,Eruption,0.8137,0.8078,0.7963,0.7574,0.757
+monkey_036,Monkey,train,Television,"Walk, footsteps",Eruption,Trumpet,Sound effect,0.7376,0.7352,0.7309,0.73,0.7139
+monkey_037,Monkey,train,"Inside, large room or hall",Bicycle bell,Steam,Jingle (music),Reggae,0.7441,0.7438,0.7416,0.7388,0.7297
+monkey_038,Monkey,train,Eruption,Cello,Sound effect,Singing,Steam,0.7302,0.6952,0.6864,0.6854,0.6832
+monkey_039,Monkey,train,Eruption,"Power windows, electric windows",Ringtone,Helicopter,"Domestic animals, pets",0.7335,0.6993,0.685,0.6839,0.6837
+monkey_040,Monkey,train,Singing,Television,Snare drum,Gargling,Pump (liquid),0.7595,0.7334,0.7205,0.7085,0.7001
+monkey_041,Monkey,train,Fill (with liquid),Car alarm,Shofar,Change ringing (campanology),Dance music,0.6716,0.6495,0.6462,0.6451,0.6333
+monkey_042,Monkey,test,Shofar,"Slap, smack","Heart sounds, heartbeat",Cupboard open or close,Siren,0.6744,0.657,0.6546,0.6544,0.6376
+monkey_043,Monkey,train,Eruption,Writing,Sound effect,Rail transport,Electronic organ,0.7032,0.693,0.6868,0.6835,0.6831
+monkey_044,Monkey,train,Throbbing,Machine gun,"Heart sounds, heartbeat",Cello,"Slap, smack",0.7042,0.6855,0.6719,0.6705,0.6683
+monkey_045,Monkey,test,Snort,Sound effect,Writing,"Ice cream truck, ice cream van",Keys jangling,0.6866,0.6772,0.6724,0.6674,0.6575
+monkey_046,Monkey,train,Electronic organ,Ship,Writing,Wind noise (microphone),"Inside, large room or hall",0.8082,0.7851,0.7741,0.7631,0.7555
+monkey_047,Monkey,train,Bicycle,Drip,Police car (siren),Machine gun,"Wail, moan",0.6553,0.6527,0.6504,0.6504,0.6489
+monkey_048,Monkey,test,"Heart sounds, heartbeat",Water,"Boat, Water vehicle",Pump (liquid),Cymbal,0.6279,0.6234,0.623,0.6193,0.6174
+monkey_049,Monkey,train,Rail transport,Sigh,Trance music,Shuffling cards,Bicycle,0.7375,0.7292,0.726,0.7181,0.7107
+frog_000,Frog,train,Singing,Keys jangling,Sound effect,Gargling,Pump (liquid),0.7769,0.7722,0.7682,0.7602,0.7541
+frog_001,Frog,test,Field recording,Keys jangling,Snort,Eruption,Bicycle bell,0.9015,0.8944,0.8803,0.8781,0.8683
+frog_002,Frog,train,Eruption,Sink (filling or washing),Field recording,Patter,Pump (liquid),0.8212,0.8071,0.8045,0.7963,0.7871
+frog_003,Frog,train,Electronic organ,Pump (liquid),Shuffling cards,Trance music,Angry music,0.7091,0.6927,0.6858,0.6795,0.6746
+frog_004,Frog,train,Shuffling cards,"Heart sounds, heartbeat",Electronic organ,Gargling,Waterfall,0.6278,0.6251,0.6236,0.623,0.6204
+frog_005,Frog,train,Snort,Tuning fork,Owl,Tubular bells,Gargling,0.812,0.7886,0.7854,0.7812,0.7782
+frog_006,Frog,train,Eruption,Singing,Sink (filling or washing),Pump (liquid),"Whack, thwack",0.7308,0.7108,0.6943,0.6932,0.6895
+frog_007,Frog,train,Snort,Tuning fork,Gargling,Keys jangling,Opera,0.8924,0.8643,0.8477,0.8365,0.8321
+frog_008,Frog,train,Keys jangling,Snort,"Thump, thud",Singing,Reverberation,0.9632,0.9608,0.9448,0.9441,0.9407
+frog_009,Frog,train,Snort,Patter,Gush,Train whistle,Timpani,0.9002,0.8879,0.8878,0.8784,0.8736
+frog_010,Frog,train,Timpani,Drum machine,"Whack, thwack",Camera,"Ratchet, pawl",0.687,0.685,0.6817,0.6732,0.6644
+frog_011,Frog,train,"Whack, thwack",Camera,Whoop,Rapping,Mechanisms,0.6472,0.6448,0.6378,0.6352,0.6325
+frog_012,Frog,test,Camera,Keys jangling,Angry music,Drip,"Thump, thud",0.7888,0.765,0.7643,0.7585,0.7574
+frog_013,Frog,train,Stream,Keys jangling,Eruption,Patter,"Ratchet, pawl",0.8641,0.8537,0.8523,0.8389,0.8227
+frog_014,Frog,train,Keys jangling,Eruption,Field recording,Patter,"Thump, thud",0.8173,0.8126,0.8114,0.806,0.8039
+frog_015,Frog,test,Truck,Fusillade,Bell,Blues,Eruption,0.713,0.708,0.6956,0.6913,0.6913
+frog_016,Frog,train,Eruption,Reversing beeps,Patter,Keys jangling,Singing,0.7897,0.7799,0.7652,0.7642,0.7552
+frog_017,Frog,train,Keys jangling,Snort,Singing,"Power windows, electric windows","Thump, thud",0.979,0.9763,0.9634,0.9609,0.9586
+frog_018,Frog,train,Chainsaw,Sigh,"Walk, footsteps",Didgeridoo,Shuffling cards,0.7538,0.7452,0.725,0.7188,0.706
+frog_019,Frog,train,Jackhammer,Tubular bells,Power tool,Television,Drip,0.7246,0.7135,0.6831,0.6813,0.6752
+frog_020,Frog,test,Tubular bells,Steam,Jackhammer,Sigh,Raindrop,0.714,0.7131,0.7084,0.7005,0.6923
+frog_021,Frog,train,Snort,Keys jangling,Singing,Reversing beeps,Field recording,0.9537,0.9439,0.9416,0.9293,0.9232
+frog_022,Frog,train,Keys jangling,Gargling,Shuffling cards,Eruption,Stream,0.868,0.8638,0.8628,0.8577,0.8567
+frog_023,Frog,test,Machine gun,Gargling,Reggae,Trance music,House music,0.6732,0.6601,0.6585,0.6551,0.639
+frog_024,Frog,train,Singing,Shuffling cards,Keys jangling,Snort,Sizzle,0.8953,0.8766,0.8488,0.8442,0.8389
+frog_025,Frog,train,Eruption,Keys jangling,"Thump, thud",Patter,Sink (filling or washing),0.7491,0.7249,0.7173,0.7038,0.6883
+frog_026,Frog,test,Jackhammer,Gargling,Tubular bells,Shuffling cards,Machine gun,0.7979,0.7959,0.7892,0.7853,0.7845
+frog_027,Frog,train,Keys jangling,Snort,Stream,Eruption,"Ratchet, pawl",0.9091,0.8829,0.8738,0.868,0.8638
+frog_028,Frog,train,Eruption,Keys jangling,Stream,"Cutlery, silverware",Patter,0.7831,0.7714,0.7608,0.7432,0.7417
+frog_029,Frog,train,Stream,Eruption,Keys jangling,Patter,"Ratchet, pawl",0.8472,0.8452,0.8438,0.8434,0.8135
+frog_030,Frog,train,Keys jangling,Snort,"Thump, thud",Singing,Sizzle,0.9431,0.9388,0.9219,0.9212,0.9089
+frog_031,Frog,test,"Whack, thwack",Jackhammer,Eruption,Cello,Tender music,0.7028,0.6805,0.6795,0.6754,0.675
+frog_032,Frog,train,Cello,Jackhammer,"Whack, thwack","Ratchet, pawl",Eruption,0.7466,0.7127,0.7095,0.7087,0.7022
+frog_033,Frog,test,Television,Scrape,Theremin,Eruption,Camera,0.6994,0.6986,0.6858,0.6673,0.6657
+frog_034,Frog,test,Field recording,Eruption,Keys jangling,Timpani,Camera,0.8605,0.8589,0.8355,0.8216,0.8088
+frog_035,Frog,train,Eruption,Television,Theremin,Snort,Scrape,0.71,0.6957,0.6932,0.6824,0.6745
+frog_036,Frog,train,Reversing beeps,"Thump, thud",Field recording,Singing,Gargling,0.8295,0.827,0.8118,0.8045,0.7927
+frog_037,Frog,train,Ocean,Environmental noise,Rustling leaves,Cupboard open or close,Jackhammer,0.6314,0.6229,0.6164,0.6143,0.6131
+frog_038,Frog,train,Keys jangling,Stream,Patter,Snort,Classical music,0.8933,0.8771,0.8519,0.8482,0.8468
+frog_039,Frog,train,Keys jangling,Stream,Snort,Eruption,Field recording,0.8321,0.8206,0.8084,0.8007,0.791
+frog_040,Frog,train,Jackhammer,Camera,Cello,"Whack, thwack",Classical music,0.784,0.7727,0.7587,0.7576,0.7538
+frog_041,Frog,train,Eruption,Keys jangling,Sink (filling or washing),Field recording,Snort,0.7675,0.7451,0.7413,0.7252,0.7246
+frog_042,Frog,train,"Inside, large room or hall",Whistle,Wind noise (microphone),Trance music,"Whack, thwack",0.7117,0.7108,0.7095,0.7031,0.6933
+frog_043,Frog,train,Patter,Gargling,Keys jangling,Eruption,Pump (liquid),0.7794,0.7566,0.7553,0.7544,0.7109
+frog_044,Frog,train,Eruption,"Whack, thwack",Keys jangling,Truck,Electronic dance music,0.6727,0.6696,0.6679,0.6653,0.6514
+frog_045,Frog,train,Snort,Tuning fork,Opera,Keys jangling,Drip,0.9211,0.8767,0.8474,0.8382,0.8343
+frog_046,Frog,train,Snort,Keys jangling,Typewriter,Patter,Sizzle,0.8714,0.8541,0.8229,0.8205,0.8062
+frog_047,Frog,train,Snort,Patter,Keys jangling,Timpani,"Race car, auto racing",0.8609,0.8438,0.84,0.8374,0.8368
+frog_048,Frog,train,Jackhammer,Sink (filling or washing),Camera,Eruption,Plucked string instrument,0.7183,0.7081,0.7038,0.7001,0.6911
+frog_049,Frog,test,Truck,Patter,Eruption,Sigh,Children playing,0.7079,0.7026,0.6915,0.6726,0.6697
+bg_000,background,test,"Heart sounds, heartbeat",Whistle,Wood block,Harmonic,Change ringing (campanology),0.6669,0.6347,0.6255,0.6249,0.6211
+bg_001,background,train,Clapping,Camera,Eruption,Angry music,Ding,0.7392,0.7166,0.7046,0.6932,0.6894
+bg_002,background,train,Electronic music,Angry music,Change ringing (campanology),Yell,"Crying, sobbing",0.6356,0.6306,0.6291,0.6246,0.6159
+bg_003,background,train,Electric guitar,"Chewing, mastication",Growling,Eruption,"Whack, thwack",0.624,0.6153,0.614,0.613,0.6082
+bg_004,background,train,Angry music,Ship,Drip,Keys jangling,Tick,0.7185,0.7041,0.6953,0.6947,0.6854
+bg_005,background,test,Change ringing (campanology),Angry music,Camera,Swing music,Tools,0.6719,0.654,0.6302,0.625,0.6225
+bg_006,background,train,Angry music,Ship,Blues,Mechanisms,Change ringing (campanology),0.6808,0.6438,0.6263,0.6257,0.6233
+bg_007,background,train,Change ringing (campanology),Electronic music,Breathing,"Crying, sobbing",Sigh,0.6812,0.6778,0.6752,0.6751,0.6693
+bg_008,background,train,Change ringing (campanology),Angry music,Camera,Sigh,"Child speech, kid speaking",0.6993,0.6861,0.6839,0.6764,0.675
+bg_009,background,train,Yell,Screaming,Angry music,Harmonic,Change ringing (campanology),0.6302,0.6124,0.6094,0.6069,0.6015
+bg_010,background,test,Screaming,Wheeze,Clapping,Singing,Chirp tone,0.6359,0.6269,0.6122,0.6034,0.6021
+bg_011,background,train,Angry music,Change ringing (campanology),Ship,Tender music,Tick,0.6075,0.602,0.5967,0.5954,0.5949
+bg_012,background,train,Camera,Light engine (high frequency),Electronic organ,Whistle,Angry music,0.6341,0.6262,0.6165,0.6154,0.6127
+bg_013,background,train,Change ringing (campanology),Singing,Wind noise (microphone),Sizzle,Machine gun,0.6961,0.6942,0.6941,0.6803,0.6787
+bg_014,background,train,Angry music,Change ringing (campanology),"Child speech, kid speaking","Whack, thwack",Sigh,0.667,0.6665,0.6444,0.6423,0.6409
+bg_015,background,test,Angry music,"Child speech, kid speaking",Sigh,Clapping,Ship,0.6521,0.651,0.6405,0.6383,0.6348
+bg_016,background,train,Sigh,Drip,Jackhammer,Hiccup,Medium engine (mid frequency),0.6485,0.6316,0.6274,0.6259,0.6252
+bg_017,background,train,Camera,Skateboard,Change ringing (campanology),Angry music,Honk,0.7568,0.7467,0.7299,0.6975,0.6934
+bg_018,background,train,Yell,"Walk, footsteps",Jackhammer,Music for children,Whistle,0.6469,0.6468,0.6233,0.618,0.6173
+bg_019,background,train,Change ringing (campanology),Angry music,Electronic music,"Child speech, kid speaking",Sigh,0.6968,0.6768,0.6746,0.6704,0.6676
+bg_020,background,test,Sigh,Angry music,Blender,Change ringing (campanology),Rapping,0.728,0.6873,0.674,0.6716,0.6708
+bg_021,background,train,Ship,Yell,Keys jangling,Rapping,Car,0.7311,0.7096,0.6764,0.6712,0.6619
+bg_022,background,train,Angry music,Keys jangling,Clapping,Frog,Rapping,0.7711,0.6991,0.6658,0.6654,0.6632
+bg_023,background,train,Power tool,Angry music,Whistle,Change ringing (campanology),Waterfall,0.6536,0.6234,0.623,0.6206,0.6153
+bg_024,background,train,Whistle,Angry music,Sizzle,"Wail, moan",Singing,0.6998,0.693,0.6874,0.685,0.6846
+bg_025,background,test,Change ringing (campanology),Angry music,Electronic music,Sigh,"Child speech, kid speaking",0.6873,0.6565,0.6439,0.6298,0.6282
+bg_026,background,train,Angry music,Electronic music,Change ringing (campanology),Tools,"Child speech, kid speaking",0.6584,0.6508,0.6333,0.6234,0.6121
+bg_027,background,train,Honk,Camera,Change ringing (campanology),Rail transport,Laughter,0.7467,0.7209,0.7184,0.7133,0.7046
+bg_028,background,train,Angry music,Electronic music,Change ringing (campanology),Yell,Tools,0.6695,0.6507,0.6197,0.6196,0.6194
+bg_029,background,train,Scratch,Angry music,"Walk, footsteps",Swing music,Cupboard open or close,0.7381,0.7374,0.7287,0.6981,0.6917
+bg_030,background,test,Angry music,Change ringing (campanology),Rapping,Whoop,Sigh,0.6689,0.6623,0.6549,0.6476,0.6453
+bg_031,background,train,Power tool,Sizzle,Yell,Electronic music,Heavy engine (low frequency),0.652,0.6486,0.6474,0.6418,0.6384
+bg_032,background,train,Drip,Angry music,Light engine (high frequency),Camera,Change ringing (campanology),0.6742,0.6731,0.6716,0.6673,0.6609
+bg_033,background,train,Electronic music,Glockenspiel,Sigh,Change ringing (campanology),Theremin,0.6813,0.6629,0.6625,0.6552,0.6508
+bg_034,background,train,Change ringing (campanology),Electronic music,"Crying, sobbing",Yell,Sigh,0.6539,0.6453,0.6387,0.6349,0.6306
+bg_035,background,test,"Walk, footsteps",Music for children,Patter,Scratch,Sigh,0.6199,0.6028,0.5982,0.592,0.5919
+bg_036,background,train,Camera,Change ringing (campanology),Angry music,Skateboard,"Child speech, kid speaking",0.7163,0.7051,0.6802,0.6777,0.6772
+bg_037,background,train,Change ringing (campanology),Trumpet,Camera,"Child speech, kid speaking","Crying, sobbing",0.6724,0.6622,0.6545,0.6398,0.6388
+bg_038,background,train,Angry music,Camera,Change ringing (campanology),Yell,Singing,0.6653,0.6356,0.6309,0.6213,0.6134
+bg_039,background,train,Change ringing (campanology),Angry music,"Child speech, kid speaking",Car,Electronic music,0.6834,0.6611,0.6572,0.6542,0.6527
+bg_040,background,test,Whistle,"Walk, footsteps",Angry music,"Inside, large room or hall",Yell,0.6159,0.6157,0.6154,0.6125,0.611
+bg_041,background,train,Power tool,"Inside, large room or hall",Shuffling cards,"Walk, footsteps",Angry music,0.6318,0.6165,0.614,0.6126,0.6122
+bg_042,background,train,Yell,"Child speech, kid speaking",Angry music,Ship,Gobble,0.6987,0.6745,0.6713,0.6595,0.6502
+bg_043,background,train,Electronic music,Change ringing (campanology),"Crying, sobbing",Scratching (performance technique),Angry music,0.6585,0.6188,0.6119,0.6114,0.6049
+bg_044,background,train,Sigh,Electronic music,Change ringing (campanology),Honk,"Crying, sobbing",0.6819,0.6763,0.6747,0.6712,0.6583
+bg_045,background,test,Electronic music,Change ringing (campanology),Sigh,Skateboard,Camera,0.6983,0.6975,0.6925,0.6845,0.6765
+bg_046,background,train,Angry music,"Walk, footsteps",Keys jangling,Engine,Yell,0.7356,0.6518,0.6505,0.6468,0.6459
+bg_047,background,train,Angry music,Electronic music,Change ringing (campanology),"Child speech, kid speaking",New-age music,0.6657,0.6473,0.6455,0.6374,0.6329
+bg_048,background,train,Change ringing (campanology),"Child speech, kid speaking","Crying, sobbing",Electronic music,Sigh,0.6929,0.6655,0.6655,0.654,0.6484
+bg_049,background,train,Angry music,Keys jangling,Clapping,Drip,Rapping,0.7886,0.7259,0.7149,0.6948,0.6924
+bg_050,background,test,"Heart sounds, heartbeat",Whistle,Wood block,Harmonic,Change ringing (campanology),0.6669,0.6347,0.6255,0.6249,0.6211
+bg_051,background,train,Clapping,Camera,Eruption,Angry music,Ding,0.7392,0.7166,0.7046,0.6932,0.6894
+bg_052,background,train,Electronic music,Angry music,Change ringing (campanology),Yell,"Crying, sobbing",0.6356,0.6306,0.6291,0.6246,0.6159
+bg_053,background,train,Electric guitar,"Chewing, mastication",Growling,Eruption,"Whack, thwack",0.624,0.6153,0.614,0.613,0.6082
+bg_054,background,train,Angry music,Ship,Drip,Keys jangling,Tick,0.7185,0.7041,0.6953,0.6947,0.6854
+bg_055,background,test,Change ringing (campanology),Angry music,Camera,Swing music,Tools,0.6719,0.654,0.6302,0.625,0.6225
+bg_056,background,train,Angry music,Ship,Blues,Mechanisms,Change ringing (campanology),0.6808,0.6438,0.6263,0.6257,0.6233
+bg_057,background,train,Change ringing (campanology),Electronic music,Breathing,"Crying, sobbing",Sigh,0.6812,0.6778,0.6752,0.6751,0.6693
+bg_058,background,train,Change ringing (campanology),Angry music,Camera,Sigh,"Child speech, kid speaking",0.6993,0.6861,0.6839,0.6764,0.675
+bg_059,background,train,Yell,Screaming,Angry music,Harmonic,Change ringing (campanology),0.6302,0.6124,0.6094,0.6069,0.6015
+bg_060,background,test,Screaming,Wheeze,Clapping,Singing,Chirp tone,0.6359,0.6269,0.6122,0.6034,0.6021
+bg_061,background,train,Angry music,Change ringing (campanology),Ship,Tender music,Tick,0.6075,0.602,0.5967,0.5954,0.5949
+bg_062,background,train,Camera,Light engine (high frequency),Electronic organ,Whistle,Angry music,0.6341,0.6262,0.6165,0.6154,0.6127
+bg_063,background,train,Change ringing (campanology),Singing,Wind noise (microphone),Sizzle,Machine gun,0.6961,0.6942,0.6941,0.6803,0.6787
+bg_064,background,train,Angry music,Change ringing (campanology),"Child speech, kid speaking","Whack, thwack",Sigh,0.667,0.6665,0.6444,0.6423,0.6409
+bg_065,background,test,Angry music,"Child speech, kid speaking",Sigh,Clapping,Ship,0.6521,0.651,0.6405,0.6383,0.6348
+bg_066,background,train,Sigh,Drip,Jackhammer,Hiccup,Medium engine (mid frequency),0.6485,0.6316,0.6274,0.6259,0.6252
+bg_067,background,train,Camera,Skateboard,Change ringing (campanology),Angry music,Honk,0.7568,0.7467,0.7299,0.6975,0.6934
+bg_068,background,train,Yell,"Walk, footsteps",Jackhammer,Music for children,Whistle,0.6469,0.6468,0.6233,0.618,0.6173
+bg_069,background,train,Change ringing (campanology),Angry music,Electronic music,"Child speech, kid speaking",Sigh,0.6968,0.6768,0.6746,0.6704,0.6676
+bg_070,background,test,Sigh,Angry music,Blender,Change ringing (campanology),Rapping,0.728,0.6873,0.674,0.6716,0.6708
+bg_071,background,train,Ship,Yell,Keys jangling,Rapping,Car,0.7311,0.7096,0.6764,0.6712,0.6619
+bg_072,background,train,Angry music,Keys jangling,Clapping,Frog,Rapping,0.7711,0.6991,0.6658,0.6654,0.6632
+bg_073,background,train,Power tool,Angry music,Whistle,Change ringing (campanology),Waterfall,0.6536,0.6234,0.623,0.6206,0.6153
+bg_074,background,train,Whistle,Angry music,Sizzle,"Wail, moan",Singing,0.6998,0.693,0.6874,0.685,0.6846
+bg_075,background,test,Change ringing (campanology),Angry music,Electronic music,Sigh,"Child speech, kid speaking",0.6873,0.6565,0.6439,0.6298,0.6282
+bg_076,background,train,Angry music,Electronic music,Change ringing (campanology),Tools,"Child speech, kid speaking",0.6584,0.6508,0.6333,0.6234,0.6121
+bg_077,background,train,Honk,Camera,Change ringing (campanology),Rail transport,Laughter,0.7467,0.7209,0.7184,0.7133,0.7046
+bg_078,background,train,Angry music,Electronic music,Change ringing (campanology),Yell,Tools,0.6695,0.6507,0.6197,0.6196,0.6194
+bg_079,background,train,Scratch,Angry music,"Walk, footsteps",Swing music,Cupboard open or close,0.7381,0.7374,0.7287,0.6981,0.6917
+bg_080,background,test,Angry music,Change ringing (campanology),Rapping,Whoop,Sigh,0.6689,0.6623,0.6549,0.6476,0.6453
+bg_081,background,train,Power tool,Sizzle,Yell,Electronic music,Heavy engine (low frequency),0.652,0.6486,0.6474,0.6418,0.6384
+bg_082,background,train,Drip,Angry music,Light engine (high frequency),Camera,Change ringing (campanology),0.6742,0.6731,0.6716,0.6673,0.6609
+bg_083,background,train,Electronic music,Glockenspiel,Sigh,Change ringing (campanology),Theremin,0.6813,0.6629,0.6625,0.6552,0.6508
+bg_084,background,train,Change ringing (campanology),Electronic music,"Crying, sobbing",Yell,Sigh,0.6539,0.6453,0.6387,0.6349,0.6306
+bg_085,background,test,"Walk, footsteps",Music for children,Patter,Scratch,Sigh,0.6199,0.6028,0.5982,0.592,0.5919
+bg_086,background,train,Camera,Change ringing (campanology),Angry music,Skateboard,"Child speech, kid speaking",0.7163,0.7051,0.6802,0.6777,0.6772
+bg_087,background,train,Change ringing (campanology),Trumpet,Camera,"Child speech, kid speaking","Crying, sobbing",0.6724,0.6622,0.6545,0.6398,0.6388
+bg_088,background,train,Angry music,Camera,Change ringing (campanology),Yell,Singing,0.6653,0.6356,0.6309,0.6213,0.6134
+bg_089,background,train,Change ringing (campanology),Angry music,"Child speech, kid speaking",Car,Electronic music,0.6834,0.6611,0.6572,0.6542,0.6527
+bg_090,background,test,Whistle,"Walk, footsteps",Angry music,"Inside, large room or hall",Yell,0.6159,0.6157,0.6154,0.6125,0.611
+bg_091,background,train,Power tool,"Inside, large room or hall",Shuffling cards,"Walk, footsteps",Angry music,0.6318,0.6165,0.614,0.6126,0.6122
+bg_092,background,train,Yell,"Child speech, kid speaking",Angry music,Ship,Gobble,0.6987,0.6745,0.6713,0.6595,0.6502
+bg_093,background,train,Electronic music,Change ringing (campanology),"Crying, sobbing",Scratching (performance technique),Angry music,0.6585,0.6188,0.6119,0.6114,0.6049
+bg_094,background,train,Sigh,Electronic music,Change ringing (campanology),Honk,"Crying, sobbing",0.6819,0.6763,0.6747,0.6712,0.6583
+bg_095,background,test,Electronic music,Change ringing (campanology),Sigh,Skateboard,Camera,0.6983,0.6975,0.6925,0.6845,0.6765
+bg_096,background,train,Angry music,"Walk, footsteps",Keys jangling,Engine,Yell,0.7356,0.6518,0.6505,0.6468,0.6459
+bg_097,background,train,Angry music,Electronic music,Change ringing (campanology),"Child speech, kid speaking",New-age music,0.6657,0.6473,0.6455,0.6374,0.6329
+bg_098,background,train,Change ringing (campanology),"Child speech, kid speaking","Crying, sobbing",Electronic music,Sigh,0.6929,0.6655,0.6655,0.654,0.6484
+bg_099,background,train,Angry music,Keys jangling,Clapping,Drip,Rapping,0.7886,0.7259,0.7149,0.6948,0.6924
+bg_100,background,test,"Heart sounds, heartbeat",Whistle,Wood block,Harmonic,Change ringing (campanology),0.6669,0.6347,0.6255,0.6249,0.6211
+bg_101,background,train,Clapping,Camera,Eruption,Angry music,Ding,0.7392,0.7166,0.7046,0.6932,0.6894
+bg_102,background,train,Electronic music,Angry music,Change ringing (campanology),Yell,"Crying, sobbing",0.6356,0.6306,0.6291,0.6246,0.6159
+bg_103,background,train,Electric guitar,"Chewing, mastication",Growling,Eruption,"Whack, thwack",0.624,0.6153,0.614,0.613,0.6082
+bg_104,background,train,Angry music,Ship,Drip,Keys jangling,Tick,0.7185,0.7041,0.6953,0.6947,0.6854
+bg_105,background,test,Change ringing (campanology),Angry music,Camera,Swing music,Tools,0.6719,0.654,0.6302,0.625,0.6225
+bg_106,background,train,Angry music,Ship,Blues,Mechanisms,Change ringing (campanology),0.6808,0.6438,0.6263,0.6257,0.6233
+bg_107,background,train,Change ringing (campanology),Electronic music,Breathing,"Crying, sobbing",Sigh,0.6812,0.6778,0.6752,0.6751,0.6693
+bg_108,background,train,Change ringing (campanology),Angry music,Camera,Sigh,"Child speech, kid speaking",0.6993,0.6861,0.6839,0.6764,0.675
+bg_109,background,train,Yell,Screaming,Angry music,Harmonic,Change ringing (campanology),0.6302,0.6124,0.6094,0.6069,0.6015
+bg_110,background,test,Screaming,Wheeze,Clapping,Singing,Chirp tone,0.6359,0.6269,0.6122,0.6034,0.6021
+bg_111,background,train,Angry music,Change ringing (campanology),Ship,Tender music,Tick,0.6075,0.602,0.5967,0.5954,0.5949
+bg_112,background,train,Camera,Light engine (high frequency),Electronic organ,Whistle,Angry music,0.6341,0.6262,0.6165,0.6154,0.6127
+bg_113,background,train,Change ringing (campanology),Singing,Wind noise (microphone),Sizzle,Machine gun,0.6961,0.6942,0.6941,0.6803,0.6787
+bg_114,background,train,Angry music,Change ringing (campanology),"Child speech, kid speaking","Whack, thwack",Sigh,0.667,0.6665,0.6444,0.6423,0.6409
+bg_115,background,test,Angry music,"Child speech, kid speaking",Sigh,Clapping,Ship,0.6521,0.651,0.6405,0.6383,0.6348
+bg_116,background,train,Sigh,Drip,Jackhammer,Hiccup,Medium engine (mid frequency),0.6485,0.6316,0.6274,0.6259,0.6252
+bg_117,background,train,Camera,Skateboard,Change ringing (campanology),Angry music,Honk,0.7568,0.7467,0.7299,0.6975,0.6934
+bg_118,background,train,Yell,"Walk, footsteps",Jackhammer,Music for children,Whistle,0.6469,0.6468,0.6233,0.618,0.6173
+bg_119,background,train,Change ringing (campanology),Angry music,Electronic music,"Child speech, kid speaking",Sigh,0.6968,0.6768,0.6746,0.6704,0.6676
+bg_120,background,test,Sigh,Angry music,Blender,Change ringing (campanology),Rapping,0.728,0.6873,0.674,0.6716,0.6708
+bg_121,background,train,Ship,Yell,Keys jangling,Rapping,Car,0.7311,0.7096,0.6764,0.6712,0.6619
+bg_122,background,train,Angry music,Keys jangling,Clapping,Frog,Rapping,0.7711,0.6991,0.6658,0.6654,0.6632
+bg_123,background,train,Power tool,Angry music,Whistle,Change ringing (campanology),Waterfall,0.6536,0.6234,0.623,0.6206,0.6153
+bg_124,background,train,Whistle,Angry music,Sizzle,"Wail, moan",Singing,0.6998,0.693,0.6874,0.685,0.6846
+bg_125,background,test,Change ringing (campanology),Angry music,Electronic music,Sigh,"Child speech, kid speaking",0.6873,0.6565,0.6439,0.6298,0.6282
+bg_126,background,train,Angry music,Electronic music,Change ringing (campanology),Tools,"Child speech, kid speaking",0.6584,0.6508,0.6333,0.6234,0.6121
+bg_127,background,train,Honk,Camera,Change ringing (campanology),Rail transport,Laughter,0.7467,0.7209,0.7184,0.7133,0.7046
+bg_128,background,train,Angry music,Electronic music,Change ringing (campanology),Yell,Tools,0.6695,0.6507,0.6197,0.6196,0.6194
+bg_129,background,train,Scratch,Angry music,"Walk, footsteps",Swing music,Cupboard open or close,0.7381,0.7374,0.7287,0.6981,0.6917
+bg_130,background,test,Angry music,Change ringing (campanology),Rapping,Whoop,Sigh,0.6689,0.6623,0.6549,0.6476,0.6453
+bg_131,background,train,Power tool,Sizzle,Yell,Electronic music,Heavy engine (low frequency),0.652,0.6486,0.6474,0.6418,0.6384
+bg_132,background,train,Drip,Angry music,Light engine (high frequency),Camera,Change ringing (campanology),0.6742,0.6731,0.6716,0.6673,0.6609
+bg_133,background,train,Electronic music,Glockenspiel,Sigh,Change ringing (campanology),Theremin,0.6813,0.6629,0.6625,0.6552,0.6508
+bg_134,background,train,Change ringing (campanology),Electronic music,"Crying, sobbing",Yell,Sigh,0.6539,0.6453,0.6387,0.6349,0.6306
+bg_135,background,test,"Walk, footsteps",Music for children,Patter,Scratch,Sigh,0.6199,0.6028,0.5982,0.592,0.5919
+bg_136,background,train,Camera,Change ringing (campanology),Angry music,Skateboard,"Child speech, kid speaking",0.7163,0.7051,0.6802,0.6777,0.6772
+bg_137,background,train,Change ringing (campanology),Trumpet,Camera,"Child speech, kid speaking","Crying, sobbing",0.6724,0.6622,0.6545,0.6398,0.6388
+bg_138,background,train,Angry music,Camera,Change ringing (campanology),Yell,Singing,0.6653,0.6356,0.6309,0.6213,0.6134
+bg_139,background,train,Change ringing (campanology),Angry music,"Child speech, kid speaking",Car,Electronic music,0.6834,0.6611,0.6572,0.6542,0.6527
+bg_140,background,test,Whistle,"Walk, footsteps",Angry music,"Inside, large room or hall",Yell,0.6159,0.6157,0.6154,0.6125,0.611
+bg_141,background,train,Power tool,"Inside, large room or hall",Shuffling cards,"Walk, footsteps",Angry music,0.6318,0.6165,0.614,0.6126,0.6122
+bg_142,background,train,Yell,"Child speech, kid speaking",Angry music,Ship,Gobble,0.6987,0.6745,0.6713,0.6595,0.6502
+bg_143,background,train,Electronic music,Change ringing (campanology),"Crying, sobbing",Scratching (performance technique),Angry music,0.6585,0.6188,0.6119,0.6114,0.6049
+bg_144,background,train,Sigh,Electronic music,Change ringing (campanology),Honk,"Crying, sobbing",0.6819,0.6763,0.6747,0.6712,0.6583
+bg_145,background,test,Electronic music,Change ringing (campanology),Sigh,Skateboard,Camera,0.6983,0.6975,0.6925,0.6845,0.6765
+bg_146,background,train,Angry music,"Walk, footsteps",Keys jangling,Engine,Yell,0.7356,0.6518,0.6505,0.6468,0.6459
+bg_147,background,train,Angry music,Electronic music,Change ringing (campanology),"Child speech, kid speaking",New-age music,0.6657,0.6473,0.6455,0.6374,0.6329
+bg_148,background,train,Change ringing (campanology),"Child speech, kid speaking","Crying, sobbing",Electronic music,Sigh,0.6929,0.6655,0.6655,0.654,0.6484
+bg_149,background,train,Angry music,Keys jangling,Clapping,Drip,Rapping,0.7886,0.7259,0.7149,0.6948,0.6924
+bg_150,background,test,Angry music,Keys jangling,Change ringing (campanology),Sigh,"Child speech, kid speaking",0.7469,0.6915,0.6772,0.6751,0.6721
+bg_151,background,train,Change ringing (campanology),"Whack, thwack",Angry music,"Child speech, kid speaking",Scratch,0.6539,0.6523,0.6301,0.6222,0.6217
+bg_152,background,train,Angry music,Keys jangling,Frog,Scratch,Clapping,0.7875,0.707,0.6882,0.6724,0.6685
+bg_153,background,train,Angry music,Change ringing (campanology),Sigh,Clapping,Whoop,0.6675,0.6541,0.6501,0.6418,0.6402
+bg_154,background,train,Angry music,Electronic organ,Yell,"Wail, moan",Snare drum,0.6772,0.6623,0.6598,0.647,0.6419
+bg_155,background,test,Blues,Yell,"Fire engine, fire truck (siren)",Singing,Cymbal,0.6376,0.6266,0.6239,0.6217,0.6186
+bg_156,background,train,Change ringing (campanology),Electronic music,Angry music,"Crying, sobbing",Camera,0.6618,0.6603,0.6425,0.6392,0.6383
+bg_157,background,train,Angry music,"Inside, large room or hall",Cupboard open or close,Singing,Moo,0.608,0.5963,0.5926,0.5915,0.589
+bg_158,background,train,Angry music,Ship,Change ringing (campanology),Rapping,Keys jangling,0.6633,0.6617,0.6605,0.6593,0.6558
+bg_159,background,train,Skateboard,Change ringing (campanology),Camera,Electronic music,Glockenspiel,0.717,0.6957,0.6829,0.6769,0.6735
+bg_160,background,test,Tools,Angry music,Car,Camera,Insect,0.6866,0.6706,0.6674,0.6639,0.6561
+bg_161,background,train,Humming,"Fire engine, fire truck (siren)",Wedding music,Cash register,Bleat,0.9955,0.9922,0.9865,0.9813,0.9766
+bg_162,background,train,Humming,Wedding music,Steelpan,"Fire engine, fire truck (siren)",Cash register,0.9829,0.9659,0.9635,0.9631,0.9577
+bg_163,background,train,Skateboard,Change ringing (campanology),Motorcycle,"Fire engine, fire truck (siren)",Electronic music,0.7162,0.6674,0.6378,0.6348,0.6292
+bg_164,background,train,Humming,Wedding music,"Fire engine, fire truck (siren)",Steelpan,Cash register,0.973,0.9493,0.944,0.943,0.9274
+bg_165,background,test,Angry music,Ship,Toilet flush,Rapping,Conversation,0.6701,0.6645,0.6617,0.6543,0.6463
+bg_166,background,train,Change ringing (campanology),Sigh,Angry music,Honk,Electronic music,0.6681,0.6667,0.649,0.6465,0.6437
+bg_167,background,train,Change ringing (campanology),Air conditioning,Honk,"Crying, sobbing",Sigh,0.6648,0.6583,0.6444,0.6337,0.6326
+bg_168,background,train,Trumpet,Change ringing (campanology),Electronic music,Angry music,Sigh,0.6937,0.6867,0.6823,0.6612,0.6533
+bg_169,background,train,Skateboard,Change ringing (campanology),Electronic music,"Child speech, kid speaking",Angry music,0.6994,0.697,0.6969,0.6872,0.6847
+bg_170,background,test,Change ringing (campanology),Angry music,Electronic music,Tools,Sigh,0.675,0.6643,0.6623,0.6484,0.6477
+bg_171,background,train,Angry music,Electronic music,Change ringing (campanology),Sigh,Air conditioning,0.6977,0.6921,0.6728,0.6724,0.6534
+bg_172,background,train,Angry music,Harmonic,"Walk, footsteps",Vibraphone,Yell,0.6642,0.658,0.6531,0.6513,0.6503
+bg_173,background,train,Sigh,Change ringing (campanology),Glockenspiel,Electronic music,Trumpet,0.6975,0.6958,0.6839,0.6755,0.6649
+bg_174,background,train,Electronic music,Angry music,Scratching (performance technique),Drum roll,Patter,0.6325,0.6161,0.6121,0.5937,0.5905
+bg_175,background,test,Change ringing (campanology),Angry music,Wood block,"Child speech, kid speaking",Drill,0.6455,0.6331,0.6235,0.6151,0.6123
+bg_176,background,train,Skateboard,Change ringing (campanology),Angry music,"Crying, sobbing",Horse,0.6635,0.6627,0.6441,0.6434,0.6419
+bg_177,background,train,Tools,Sigh,Electronic music,Change ringing (campanology),New-age music,0.6093,0.5903,0.5855,0.5855,0.58
+bg_178,background,train,Electronic music,Trumpet,Change ringing (campanology),Skateboard,Angry music,0.7013,0.7006,0.6948,0.6765,0.6591
+bg_179,background,train,Humming,"Fire engine, fire truck (siren)",Cash register,Wedding music,Writing,0.9537,0.9493,0.9304,0.9267,0.9235
+bg_180,background,test,Angry music,Camera,Sigh,"Child speech, kid speaking",Swing music,0.6978,0.6924,0.6786,0.6657,0.6563
+bg_181,background,train,Angry music,Change ringing (campanology),Camera,String section,Baby laughter,0.6835,0.6666,0.6551,0.6401,0.6383
+bg_182,background,train,Change ringing (campanology),Angry music,Electronic music,Wheeze,Caterwaul,0.6278,0.6274,0.6229,0.6226,0.6154
+bg_183,background,train,Speech synthesizer,"Whack, thwack","Wail, moan",Dance music,Stomach rumble,0.7252,0.7158,0.7035,0.7011,0.6931
+bg_184,background,train,Electronic music,Trumpet,Happy music,Yell,"Crying, sobbing",0.6443,0.6359,0.6333,0.6292,0.6273
+bg_185,background,test,Tick,Camera,Light engine (high frequency),"Water tap, faucet",Yell,0.7581,0.7561,0.7502,0.7474,0.7201
+bg_186,background,train,Camera,Angry music,Electronic music,Change ringing (campanology),Tools,0.6682,0.6629,0.6608,0.6346,0.6291
+bg_187,background,train,Change ringing (campanology),Honk,Skateboard,Camera,Meow,0.8158,0.7903,0.7871,0.7836,0.7673
+bg_188,background,train,Electronic music,Change ringing (campanology),Happy music,Tick,Growling,0.6616,0.6499,0.6495,0.6398,0.6374
+bg_189,background,train,Angry music,Clapping,"Walk, footsteps",Bell,Frog,0.7008,0.6831,0.6816,0.6669,0.6549
+bg_190,background,test,Change ringing (campanology),Electronic music,"Whack, thwack",Angry music,"Crying, sobbing",0.6679,0.6534,0.6513,0.6413,0.6349
+bg_191,background,train,Sigh,Electronic music,Change ringing (campanology),Glockenspiel,Trumpet,0.6819,0.6587,0.6582,0.6577,0.6552
+bg_192,background,train,Change ringing (campanology),Camera,"Outside, rural or natural",Skateboard,Honk,0.7579,0.7464,0.7452,0.7363,0.7295
+bg_193,background,train,Angry music,Caterwaul,"Crying, sobbing",Honk,Insect,0.6462,0.6364,0.6343,0.6312,0.629
+bg_194,background,train,Change ringing (campanology),Electronic music,Power tool,Honk,"Crying, sobbing",0.6267,0.6217,0.6212,0.6156,0.6122
+bg_195,background,test,Humming,"Fire engine, fire truck (siren)",Cash register,Meow,Honk,0.9516,0.9421,0.9174,0.9129,0.9113
+bg_196,background,train,Change ringing (campanology),Electronic music,Sigh,"Crying, sobbing",Applause,0.6791,0.663,0.6568,0.6369,0.6337
+bg_197,background,train,Change ringing (campanology),"Fire engine, fire truck (siren)",Angry music,Cello,Sigh,0.6446,0.6294,0.6185,0.6171,0.6103
+bg_198,background,train,Yell,"Chuckle, chortle",Electronic music,Sigh,"Crying, sobbing",0.6104,0.61,0.6099,0.6047,0.6019
+bg_199,background,train,Humming,"Fire engine, fire truck (siren)",Honk,Wedding music,Steelpan,0.8534,0.8519,0.842,0.8256,0.8251

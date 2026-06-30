@@ -1,0 +1,39 @@
+# ── credentials / env (never commit) ───────────────────────────
+.gcloud-config/
+.venv/
+*.pem
+*.key
+*.crt
+*credentials*
+*secret*
+
+# ── separate repos (have their own remotes) ─────────────────────
+chatak-odas/
+yamnet/
+simulator/
+
+# ── large source data & archives ───────────────────────────────
+backup/
+backup.tar.gz
+
+# ── large / derived experiment artifacts (regenerable) ──────────
+experiments/sim/
+experiments/odas/logs*/
+experiments/odas/*.raw
+experiments/odas/deploy/
+experiments/odas/*.log
+data_prep/clips/
+*.pkl
+*.npz
+*.npy
+*.keras
+*.tflite
+*.wav
+*.raw
+*.f32
+
+# ── python / OS ─────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
